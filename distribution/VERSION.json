@@ -1,0 +1,521 @@
+{
+    "PluginInfo": {
+        "Name": "FFXIVAPP.Plugin.GathererTimer.dll",
+        "Version": "1.0.5523.38641",
+        "files": [
+            {
+                "Name": "FFXIVAPP.Common.dll",
+                "Location": "",
+            }
+            {
+                "Name": "FFXIVAPP.IPluginInterface.dll",
+                "Location": "",
+            }
+            {
+                "Name": "FFXIVAPP.Localization.dll",
+                "Location": "",
+            }
+            {
+                "Name": "FFXIVAPP.Plugin.GathererTimer.dll",
+                "Location": "",
+            }
+            {
+                "Name": "FFXIVAPP.Plugin.GathererTimer.dll.config",
+                "Location": "",
+            }
+            {
+                "Name": "FFXIVAPP.Plugin.GathererTimer.pdb",
+                "Location": "",
+            }
+            {
+                "Name": "HtmlAgilityPack.dll",
+                "Location": "",
+            }
+            {
+                "Name": "HtmlAgilityPack.xml",
+                "Location": "",
+            }
+            {
+                "Name": "Ionic.Zip.dll",
+                "Location": "",
+            }
+            {
+                "Name": "Ionic.Zip.xml",
+                "Location": "",
+            }
+            {
+                "Name": "Logo.png",
+                "Location": "",
+            }
+            {
+                "Name": "MahApps.Metro.dll",
+                "Location": "",
+            }
+            {
+                "Name": "NAudio.dll",
+                "Location": "",
+            }
+            {
+                "Name": "NAudio.xml",
+                "Location": "",
+            }
+            {
+                "Name": "Newtonsoft.Json.dll",
+                "Location": "",
+            }
+            {
+                "Name": "Newtonsoft.Json.xml",
+                "Location": "",
+            }
+            {
+                "Name": "NLog.config",
+                "Location": "",
+            }
+            {
+                "Name": "NLog.dll",
+                "Location": "",
+            }
+            {
+                "Name": "NLog.xml",
+                "Location": "",
+            }
+            {
+                "Name": "PluginInfo.xml",
+                "Location": "",
+            }
+            {
+                "Name": "System.Windows.Interactivity.dll",
+                "Location": "",
+            }
+            {
+                "Name": "icon_00.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_01.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_02.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_03.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_04.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_05.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_06.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_07.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_08.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_09.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_10.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_11.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_12.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_13.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_14.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_15.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_16.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_17.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_18.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_19.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_20.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_21.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_22.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_23.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_24.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_25.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_26.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_27.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_28.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_29.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_30.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_31.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_32.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_33.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_34.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_35.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_36.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_37.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_38.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_39.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_40.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_41.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_42.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_43.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_44.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_45.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_46.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_47.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_48.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_49.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_50.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_51.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_52.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_53.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_54.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_55.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_56.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "icon_error.png",
+                "Location": "Icons",
+            }
+            {
+                "Name": "map_error.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n00.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n01.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n02.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n03.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n04.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n05.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n06.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n07.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n08.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n09.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n10.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n11.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n12.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n13.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n14.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n15.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n16.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n17.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n18.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n19.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n20.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n21.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n22.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n23.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n24.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n25.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n26.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n27.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n28.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n29.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n30.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n31.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n32.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n33.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n34.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n35.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n36.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n37.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n38.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n39.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n40.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "map_n41.png",
+                "Location": "Maps",
+            }
+            {
+                "Name": "beep01.wav",
+                "Location": "Sounds",
+            }
+            {
+                "Name": "beep02.wav",
+                "Location": "Sounds",
+            }
+            {
+                "Name": "flash.wav",
+                "Location": "Sounds",
+            }
+            {
+                "Name": "jingle01.wav",
+                "Location": "Sounds",
+            }
+            {
+                "Name": "jingle02.wav",
+                "Location": "Sounds",
+            }
+            {
+                "Name": "jingle03.wav",
+                "Location": "Sounds",
+            },
+        ],
+        "SourceURI": "https://github.com/dreams00/ffxivapp-plugin-gatherer-timer/raw/master/distribution/",
+    }
+}

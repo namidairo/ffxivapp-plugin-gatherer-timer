@@ -1,0 +1,65 @@
+﻿<UserControl x:Class="FFXIVAPP.Plugin.GathererTimer.Views.SettingsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:Properties="clr-namespace:FFXIVAPP.Plugin.GathererTimer.Properties"
+             xmlns:GathererTimer="clr-namespace:FFXIVAPP.Plugin.GathererTimer"
+             xmlns:MetroControls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+             xmlns:ViewModels="clr-namespace:FFXIVAPP.Plugin.GathererTimer.ViewModels"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             d:DesignHeight="300"
+             d:DesignWidth="300"
+             mc:Ignorable="d">
+
+    <UserControl.Resources>
+        <x:Static x:Key="SettingsViewModel"
+                  Member="ViewModels:SettingsViewModel.Instance" />
+        <x:Static x:Key="PluginViewModel"
+                  Member="GathererTimer:PluginViewModel.Instance" />
+        <x:Static x:Key="Settings"
+                  Member="Properties:Settings.Default" />
+    </UserControl.Resources>
+
+    <Grid x:Name="LayoutRoot"
+          DataContext="{StaticResource SettingsViewModel}">
+        <ScrollViewer>
+            <StackPanel>
+                <GroupBox Header="{Binding Locale[text_show_nearest_time_item], Source={StaticResource PluginViewModel}}">
+                    <MetroControls:ToggleSwitch IsChecked="{Binding IsShowNearestTimeItem, Source={x:Static Properties:Settings.Default}}"/>
+                </GroupBox>
+
+                <GroupBox Header="{Binding Locale[text_alarm_enabled], Source={StaticResource PluginViewModel}}">
+                    <MetroControls:ToggleSwitch IsChecked="{Binding IsEnabledAlarm, Source={x:Static Properties:Settings.Default}}"/>
+                </GroupBox>
+
+                <GroupBox Header="{Binding Locale[text_alarm_sound_configure], Source={StaticResource PluginViewModel}}">
+                    <DockPanel Margin="3" LastChildFill="True">
+                        <TextBlock Padding="5" Text="{Binding Locale[text_alarm_sound], Source={StaticResource PluginViewModel}}"/>
+                        <ComboBox x:Name="TSound" Width="120" IsReadOnly="False" ItemsSource="{Binding SoundFiles,  Source={StaticResource PluginViewModel}}"  SelectedValue="{Binding AlarmSoundFile, Source={x:Static Properties:Settings.Default}}" />
+                        <TextBlock Padding="5" Text="{Binding Locale[text_alarm_volume], Source={StaticResource PluginViewModel}}" />
+                        <TextBlock Width="60" VerticalAlignment="Center" Padding="5" Text="{Binding ElementName=TVolume,Path=Value,StringFormat=\{0:P2\}}" />
+                        <Button x:Name="btnTestPlay" Margin="3 0 0 0" Content="{Binding Locale[text_alarm_testplay], Source={StaticResource PluginViewModel}}" DockPanel.Dock="Right" Command="{Binding TestSoundCommand}" />
+                        <Slider x:Name="TVolume"
+                                        IsSnapToTickEnabled="True"
+                                        Maximum="1"
+                                        Minimum="0"
+                                        TickFrequency="0.025"
+                                        TickPlacement="BottomRight"
+                                        Value="{Binding AlarmVolume, Source={x:Static Properties:Settings.Default}}" />
+                    </DockPanel>
+                </GroupBox>
+
+                <GroupBox Header="{Binding Locale[text_alarm_time_earlier], Source={StaticResource PluginViewModel}}">
+                    <StackPanel>
+                        <ComboBox x:Name="cbAlarmTime"
+                                          Margin="5"
+                                          IsReadOnly="False"
+                                          ItemsSource="{Binding AlarmTimeList, Source={x:Static Properties:Settings.Default}}"
+                                          SelectedValue="{Binding AlarmTime, Source={x:Static Properties:Settings.Default}}" />
+                    </StackPanel>
+                </GroupBox>
+            </StackPanel>
+        </ScrollViewer>
+
+    </Grid>
+</UserControl>
