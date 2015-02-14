@@ -6,6 +6,7 @@
 !.gitignore
 !*.wav
 !*.mp3
+!*.png
 !FFXIVAPP.Plugin.GathererTimer.dll
 !Logo.png
 !PluginInfo.xml
