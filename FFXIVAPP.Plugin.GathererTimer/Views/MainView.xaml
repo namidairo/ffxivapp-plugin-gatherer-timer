@@ -79,7 +79,7 @@
                     <Label x:Name="lbTime" Margin="12,0,0,0" VerticalAlignment="Center" HorizontalContentAlignment="Right" FontWeight="Bold" Padding="0" Content="ET 12:34:56 / LT 12:34:56"/>
                 </StackPanel>
 
-                <ListView x:Name="lvList" ItemContainerStyle="{StaticResource MainListViewItemStyle}" SelectionMode="Single" ItemsSource="{Binding}" Margin="0,10" Width="Auto" Height="Auto" VerticalAlignment="Top" Grid.Row="1">
+                <ListView x:Name="lvList" SelectionMode="Single" ItemContainerStyle="{StaticResource MainListViewItemStyle}" ItemsSource="{Binding}" Margin="0,10" Width="Auto" Height="Auto" VerticalAlignment="Top" Grid.Row="1">
                     <i:Interaction.Triggers>
                         <i:EventTrigger EventName="SelectionChanged">
                             <i:InvokeCommandAction Command="{Binding SelectionChangedMainListCommand}" />

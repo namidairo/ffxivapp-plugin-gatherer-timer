@@ -79,6 +79,8 @@ namespace FFXIVAPP.Plugin.GathererTimer.ViewModels
 
         #region Variables
 
+        private static Boolean isInitialized = false;
+
         private static List<ItemInfo> listDummyDetail = new List<ItemInfo>();
 
         private static BitmapImage bmpDummyMap = null;
@@ -116,6 +118,10 @@ namespace FFXIVAPP.Plugin.GathererTimer.ViewModels
         /// UserControl.Loaded
         /// </summary>
         private static void Loaded() {
+            if (isInitialized) {
+                return;
+            }
+
             // data
             GathererInfoList = GathererInfoManager.Load();
 
@@ -154,6 +160,8 @@ namespace FFXIVAPP.Plugin.GathererTimer.ViewModels
             etTimer.Interval = TimeSpan.FromMilliseconds(1000);
             etTimer.Tick += etTimer_Tick;
             etTimer.Start();
+
+            isInitialized = true;
         }
 
 
