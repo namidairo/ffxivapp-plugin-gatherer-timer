@@ -1,5 +1,6 @@
 # FFXIVAPP.Plugin.GathererTimer
 
+* I English does not written well. It may be strange text... sorry!
 
 ## How To Install Plugin manually
 
@@ -11,3 +12,8 @@
 * Click "REFRESH PLUGINS".
 * Double click "FFXIVAPP.Plugin.GathereTimer"
 * Restart FFXIVAPP.
+
+## How To Uninstall Plugin manulally.
+
+* Double click "FFXIVAPP.Plugin.GathererTimer" in "Update" -> "Available Plugins".
+* If you cannot run FFXIVAPP with GathererTimer, remove Directory "FFXIVAPP/Plugins/FFXIVAPP.Plugin.GathererTimer" manually.
