@@ -1,0 +1,2336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gathererInfo version="2.0">
+	<items>
+		<data>
+			<id>0</id>
+			<idInGame>7f520554064</idInGame>
+			<jp>ゼーメルトマト</jp>
+			<en>Dzemael Tomato</en>
+			<fr>Tomate Dzemael</fr>
+			<de>Dzemael-Tomate</de>
+			<icon>icon_09.png</icon>
+			<needGain>0</needGain>
+			<needQuality>320</needQuality>
+		</data>
+		<data>
+			<id>1</id>
+			<idInGame>639971ee61f</idInGame>
+			<jp>ラノシアリーキ</jp>
+			<en>La Noscean Leek</en>
+			<fr>Poireau noscéen</fr>
+			<de>La Noscea-Porree</de>
+			<icon>icon_35.png</icon>
+			<needGain>408</needGain>
+			<needQuality>389</needQuality>
+		</data>
+		<data>
+			<id>2</id>
+			<idInGame>ff77b15461c</idInGame>
+			<jp>ソフトスピナッチ</jp>
+			<en>Young Cieldalaes Spinach</en>
+			<fr>Jeunes épinards des Cieldalaes</fr>
+			<de>Junger Ciedaläen-Spinat</de>
+			<icon>icon_31.png</icon>
+			<needGain>408</needGain>
+			<needQuality>389</needQuality>
+		</data>
+		<data>
+			<id>3</id>
+			<idInGame>25b501e018a</idInGame>
+			<jp>ブラックトリュフ</jp>
+			<en>Black Truffle</en>
+			<fr>Truffe noire</fr>
+			<de>Schwarze Trüffel</de>
+			<icon>icon_15.png</icon>
+			<needGain>0</needGain>
+			<needQuality>320</needQuality>
+		</data>
+		<data>
+			<id>4</id>
+			<idInGame>df24a86f573</idInGame>
+			<jp>ハニーレモン</jp>
+			<en>Honey Lemon</en>
+			<fr>Citron miel</fr>
+			<de>Honigzitrone</de>
+			<icon>icon_13.png</icon>
+			<needGain>0</needGain>
+			<needQuality>320</needQuality>
+		</data>
+		<data>
+			<id>5</id>
+			<idInGame>7536f2aea8f</idInGame>
+			<jp>パイナップル</jp>
+			<en>Prickly Pineapple</en>
+			<fr>Ananas épineux</fr>
+			<de>Ananas</de>
+			<icon>icon_12.png</icon>
+			<needGain>0</needGain>
+			<needQuality>320</needQuality>
+		</data>
+		<data>
+			<id>6</id>
+			<idInGame>b2d4c473cdc</idInGame>
+			<jp>アプリコット</jp>
+			<en>Apricot</en>
+			<fr>Abricot</fr>
+			<de>Aprikose</de>
+			<icon>icon_36.png</icon>
+			<needGain>408</needGain>
+			<needQuality>389</needQuality>
+		</data>
+		<data>
+			<id>7</id>
+			<idInGame>f3399493965</idInGame>
+			<jp>ブラッドオレンジ</jp>
+			<en>Blood Orange</en>
+			<fr>Orange sanguine</fr>
+			<de>Blutorange</de>
+			<icon>icon_34.png</icon>
+			<needGain>408</needGain>
+			<needQuality>389</needQuality>
+		</data>
+		<data>
+			<id>8</id>
+			<idInGame>dd538e4d915</idInGame>
+			<jp>金鉱</jp>
+			<en>Gold Ore</en>
+			<fr>Minerai d&apos;or</fr>
+			<de>Golderz</de>
+			<icon>icon_20.png</icon>
+			<needGain>0</needGain>
+			<needQuality>320</needQuality>
+		</data>
+		<data>
+			<id>9</id>
+			<idInGame>df71799bdeb</idInGame>
+			<jp>白金鉱</jp>
+			<en>Platinum Ore</en>
+			<fr>Minerai de platine</fr>
+			<de>Platinerz</de>
+			<icon>icon_51.png</icon>
+			<needGain>420</needGain>
+			<needQuality>420</needQuality>
+		</data>
+		<data>
+			<id>10</id>
+			<idInGame>266013cb547</idInGame>
+			<jp>闇鉄鉱</jp>
+			<en>Darksteel Ore</en>
+			<fr>Minerai de sombracier</fr>
+			<de>Dunkelstahlerz</de>
+			<icon>icon_19.png</icon>
+			<needGain>0</needGain>
+			<needQuality>320</needQuality>
+		</data>
+		<data>
+			<id>11</id>
+			<idInGame>45b6dfeccce</idInGame>
+			<jp>鉄重石</jp>
+			<en>Ferberite</en>
+			<fr>Minerai de ferbérite</fr>
+			<de>Ferberit</de>
+			<icon>icon_27.png</icon>
+			<needGain>408</needGain>
+			<needQuality>389</needQuality>
+		</data>
+		<data>
+			<id>12</id>
+			<idInGame>eae6dc583f8</idInGame>
+			<jp>ルビー原石</jp>
+			<en>Raw Ruby</en>
+			<fr>Rubis brut</fr>
+			<de>Roh-Rubin</de>
+			<icon>icon_39.png</icon>
+			<needGain>408</needGain>
+			<needQuality>389</needQuality>
+		</data>
+		<data>
+			<id>13</id>
+			<idInGame>1c10ecb3fce</idInGame>
+			<jp>ダイヤモンド原石</jp>
+			<en>Raw Diamond</en>
+			<fr>Diamant brut</fr>
+			<de>Roh-Diamant</de>
+			<icon>icon_45.png</icon>
+			<needGain>408</needGain>
+			<needQuality>389</needQuality>
+		</data>
+		<data>
+			<id>14</id>
+			<idInGame>35048055422</idInGame>
+			<jp>エメラルド原石</jp>
+			<en>Raw Emerald</en>
+			<fr>Émeraude brute</fr>
+			<de>Roh-Smaragd</de>
+			<icon>icon_44.png</icon>
+			<needGain>408</needGain>
+			<needQuality>389</needQuality>
+		</data>
+		<data>
+			<id>15</id>
+			<idInGame>39686e1a626</idInGame>
+			<jp>トパーズ原石</jp>
+			<en>Raw Topaz</en>
+			<fr>Topaze brute</fr>
+			<de>Roh-Topas</de>
+			<icon>icon_42.png</icon>
+			<needGain>408</needGain>
+			<needQuality>389</needQuality>
+		</data>
+		<data>
+			<id>16</id>
+			<idInGame>dd70c4e1b92</idInGame>
+			<jp>アイオライト原石</jp>
+			<en>Raw Iolite</en>
+			<fr>Cordiérite brute</fr>
+			<de>Roh-Luchssaphir</de>
+			<icon>icon_43.png</icon>
+			<needGain>408</needGain>
+			<needQuality>389</needQuality>
+		</data>
+		<data>
+			<id>17</id>
+			<idInGame>1674571be07</idInGame>
+			<jp>サファイア原石</jp>
+			<en>Raw Sapphire</en>
+			<fr>Saphir brut</fr>
+			<de>Roh-Saphir</de>
+			<icon>icon_49.png</icon>
+			<needGain>408</needGain>
+			<needQuality>389</needQuality>
+		</data>
+		<data>
+			<id>18</id>
+			<idInGame>077bb360132</idInGame>
+			<jp>星性岩</jp>
+			<en>Astral Rock</en>
+			<fr>Roche astrale</fr>
+			<de>Astralgestein</de>
+			<icon>icon_22.png</icon>
+			<needGain>0</needGain>
+			<needQuality>320</needQuality>
+		</data>
+		<data>
+			<id>19</id>
+			<idInGame>9b5e3344743</idInGame>
+			<jp>霊性岩</jp>
+			<en>Umbral Rock</en>
+			<fr>Roche ombrale</fr>
+			<de>Schattenfels</de>
+			<icon>icon_32.png</icon>
+			<needGain>353</needGain>
+			<needQuality>332</needQuality>
+		</data>
+		<data>
+			<id>20</id>
+			<idInGame>8cf32010995</idInGame>
+			<jp>強霊性岩</jp>
+			<en>Antumbral Rock</en>
+			<fr>Roche antéombrale</fr>
+			<de>Schlagschattenfels</de>
+			<icon>icon_41.png</icon>
+			<needGain>408</needGain>
+			<needQuality>389</needQuality>
+		</data>
+		<data>
+			<id>21</id>
+			<idInGame>8988b98c9f6</idInGame>
+			<jp>無属性クリスタル</jp>
+			<en>Unaspected Crystal</en>
+			<fr>Cristal terni</fr>
+			<de>Elementneutraler Kristall</de>
+			<icon>icon_56.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>22</id>
+			<idInGame>5745b0b73fe</idInGame>
+			<jp>パミスストーン</jp>
+			<en>Pumice</en>
+			<fr>Pierre ponce</fr>
+			<de>Bimsstein</de>
+			<icon>icon_52.png</icon>
+			<needGain>420</needGain>
+			<needQuality>420</needQuality>
+		</data>
+		<data>
+			<id>23</id>
+			<idInGame>29653063714</idInGame>
+			<jp>バジリスクの初卵</jp>
+			<en>Virgin Basilisk Egg</en>
+			<fr>Premier œuf de basilic</fr>
+			<de>Erstgelegtes Basilisken-Ei</de>
+			<icon>icon_55.png</icon>
+			<needGain>450</needGain>
+			<needQuality>450</needQuality>
+		</data>
+		<data>
+			<id>24</id>
+			<idInGame>27b53e13b60</idInGame>
+			<jp>金砂</jp>
+			<en>Gold Sand</en>
+			<fr>Sable d&apos;or</fr>
+			<de>Goldsand</de>
+			<icon>icon_21.png</icon>
+			<needGain>0</needGain>
+			<needQuality>320</needQuality>
+		</data>
+		<data>
+			<id>25</id>
+			<idInGame>1c7651235cc</idInGame>
+			<jp>自然金</jp>
+			<en>Native Gold</en>
+			<fr>Pépite d&apos;or natif</fr>
+			<de>Naturgold</de>
+			<icon>icon_28.png</icon>
+			<needGain>408</needGain>
+			<needQuality>389</needQuality>
+		</data>
+		<data>
+			<id>26</id>
+			<idInGame>b324f706498</idInGame>
+			<jp>バンブー材</jp>
+			<en>Bamboo Stick</en>
+			<fr>Tige de bambou</fr>
+			<de>Bambus-Bauholz</de>
+			<icon>icon_47.png</icon>
+			<needGain>408</needGain>
+			<needQuality>389</needQuality>
+		</data>
+		<data>
+			<id>27</id>
+			<idInGame>05da5ac8d84</idInGame>
+			<jp>エボニー原木</jp>
+			<en>Ebony Log</en>
+			<fr>Rondin d&apos;ébène</fr>
+			<de>Ebenholz-Holzscheit</de>
+			<icon>icon_50.png</icon>
+			<needGain>420</needGain>
+			<needQuality>420</needQuality>
+		</data>
+		<data>
+			<id>28</id>
+			<idInGame>abd30227264</idInGame>
+			<jp>スプルース原木</jp>
+			<en>Spruce Log</en>
+			<fr>Rondin d&apos;épicéa</fr>
+			<de>Fichten-Holzscheit</de>
+			<icon>icon_08.png</icon>
+			<needGain>0</needGain>
+			<needQuality>320</needQuality>
+		</data>
+		<data>
+			<id>29</id>
+			<idInGame>7e9854de654</idInGame>
+			<jp>サイプレス原木</jp>
+			<en>Cypress Log</en>
+			<fr>Rondin de cyprès</fr>
+			<de>Zypressen-Bauholz</de>
+			<icon>icon_53.png</icon>
+			<needGain>420</needGain>
+			<needQuality>420</needQuality>
+		</data>
+		<data>
+			<id>30</id>
+			<idInGame>d933984e123</idInGame>
+			<jp>黒衣香木</jp>
+			<en>Fragrant Log</en>
+			<fr>Rondin odorant</fr>
+			<de>Duftholz</de>
+			<icon>icon_25.png</icon>
+			<needGain>353</needGain>
+			<needQuality>332</needQuality>
+		</data>
+		<data>
+			<id>31</id>
+			<idInGame>f61d2568c6d</idInGame>
+			<jp>高級黒衣香木</jp>
+			<en>Redolent Log</en>
+			<fr>Rondin fragrant</fr>
+			<de>Edelduftholz</de>
+			<icon>icon_46.png</icon>
+			<needGain>408</needGain>
+			<needQuality>389</needQuality>
+		</data>
+		<data>
+			<id>32</id>
+			<idInGame>62cd1b48859</idInGame>
+			<jp>生マユ</jp>
+			<en>Crawler Cocoon</en>
+			<fr>Cocon de chenille</fr>
+			<de>Kokon</de>
+			<icon>icon_23.png</icon>
+			<needGain>0</needGain>
+			<needQuality>320</needQuality>
+		</data>
+		<data>
+			<id>33</id>
+			<idInGame>91d5852e60b</idInGame>
+			<jp>水鳥の羽根</jp>
+			<en>Waterfowl Feather</en>
+			<fr>Plume de sauvagine</fr>
+			<de>Wasservogelfeder</de>
+			<icon>icon_48.png</icon>
+			<needGain>408</needGain>
+			<needQuality>389</needQuality>
+		</data>
+		<data>
+			<id>34</id>
+			<idInGame>564dccc62a5</idInGame>
+			<jp>緋樹液</jp>
+			<en>Scarlet Sap</en>
+			<fr>Sève écarlate</fr>
+			<de>Rotharz</de>
+			<icon>icon_26.png</icon>
+			<needGain>408</needGain>
+			<needQuality>389</needQuality>
+		</data>
+		<data>
+			<id>35</id>
+			<idInGame>088fc024bd4</idInGame>
+			<jp>ラノシア岩塩</jp>
+			<en>Volcanic Rock Salt</en>
+			<fr>Sel gemme noscéen</fr>
+			<de>Vulkanisches Steinsalz</de>
+			<icon>icon_18.png</icon>
+			<needGain>0</needGain>
+			<needQuality>320</needQuality>
+		</data>
+		<data>
+			<id>36</id>
+			<idInGame>eb92615f4a3</idInGame>
+			<jp>サベネアミスルトゥ</jp>
+			<en>Thavnairian Mistletoe</en>
+			<fr>Gui de Thavnair</fr>
+			<de>Thavnair-Mistelzweig</de>
+			<icon>icon_07.png</icon>
+			<needGain>0</needGain>
+			<needQuality>320</needQuality>
+		</data>
+		<data>
+			<id>37</id>
+			<idInGame>0e686269d75</idInGame>
+			<jp>トリリウム</jp>
+			<en>Trillium</en>
+			<fr>Trille</fr>
+			<de>Waldlilie</de>
+			<icon>icon_10.png</icon>
+			<needGain>0</needGain>
+			<needQuality>320</needQuality>
+		</data>
+		<data>
+			<id>38</id>
+			<idInGame>f139e22f50c</idInGame>
+			<jp>トリリウムの球根</jp>
+			<en>Trillium Bulb</en>
+			<fr>Bulbe de trille</fr>
+			<de>Waldlilien-Knolle</de>
+			<icon>icon_11.png</icon>
+			<needGain>0</needGain>
+			<needQuality>320</needQuality>
+		</data>
+		<data>
+			<id>39</id>
+			<idInGame>d0b04f58075</idInGame>
+			<jp>ヴァンパイアプラント</jp>
+			<en>Vampire Plant</en>
+			<fr>Baie vampire</fr>
+			<de>Vampirpflanze</de>
+			<icon>icon_02.png</icon>
+			<needGain>0</needGain>
+			<needQuality>320</needQuality>
+		</data>
+		<data>
+			<id>40</id>
+			<idInGame>83d204178e7</idInGame>
+			<jp>ティノルカ茶葉</jp>
+			<en>Shroud Tea Leaves</en>
+			<fr>Feuilles de thé de Tinolqa</fr>
+			<de>Gridanische Teeblätter</de>
+			<icon>icon_24.png</icon>
+			<needGain>408</needGain>
+			<needQuality>389</needQuality>
+		</data>
+		<data>
+			<id>41</id>
+			<idInGame>9028de03d3d</idInGame>
+			<jp>ローズマリー</jp>
+			<en>Rosemary</en>
+			<fr>Romarin</fr>
+			<de>Rosmarin</de>
+			<icon>icon_54.png</icon>
+			<needGain>450</needGain>
+			<needQuality>450</needQuality>
+		</data>
+		<data>
+			<id>42</id>
+			<idInGame>e8ccb4b1f81</idInGame>
+			<jp>ファイアクラスター</jp>
+			<en>Fire Cluster</en>
+			<fr>Agrégat de feu</fr>
+			<de>Feuerpolykristall</de>
+			<icon>icon_14.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>43</id>
+			<idInGame>4dbe0ec0a76</idInGame>
+			<jp>アイスクラスター</jp>
+			<en>Ice Cluster</en>
+			<fr>Agrégat de glace</fr>
+			<de>Eispolykristall</de>
+			<icon>icon_01.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>44</id>
+			<idInGame>b61cbfd2d6e</idInGame>
+			<jp>ウィンドクラスター</jp>
+			<en>Wind Cluster</en>
+			<fr>Agrégat de vent</fr>
+			<de>Windpolykristall</de>
+			<icon>icon_03.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>45</id>
+			<idInGame>c97c6825890</idInGame>
+			<jp>アースクラスター</jp>
+			<en>Earth Cluster</en>
+			<fr>Agrégat de terre</fr>
+			<de>Erdpolykristall</de>
+			<icon>icon_00.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>46</id>
+			<idInGame>06061fd121b</idInGame>
+			<jp>ライトニングクラスター</jp>
+			<en>Lightning Cluster</en>
+			<fr>Agrégat de foudre</fr>
+			<de>Blitzpolykristall</de>
+			<icon>icon_17.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>47</id>
+			<idInGame>e3d82488f80</idInGame>
+			<jp>ウォータークラスター</jp>
+			<en>Water Cluster</en>
+			<fr>Agrégat d&apos;eau</fr>
+			<de>Wasserpolykristall</de>
+			<icon>icon_04.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>48</id>
+			<idInGame>bcd7cdcdb70</idInGame>
+			<jp>コールマターG4</jp>
+			<en>Grade 4 Carbonized Matter</en>
+			<fr>Matière carbonique grade IV</fr>
+			<de>Karbonisierte Materie G4</de>
+			<icon>icon_05.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>49</id>
+			<idInGame>c8dd6462dec</idInGame>
+			<jp>コブランラーヴァ</jp>
+			<en>Coblyn Larva</en>
+			<fr>Larve de coblyn</fr>
+			<de>Kobalos-Larve</de>
+			<icon>icon_06.png</icon>
+			<needGain>0</needGain>
+			<needQuality>320</needQuality>
+		</data>
+		<data>
+			<id>50</id>
+			<idInGame>0af6762d73f</idInGame>
+			<jp>ミニマンドラゴラ</jp>
+			<en>Kidragora</en>
+			<fr>Mini mini mandragore</fr>
+			<de>Kindragora</de>
+			<icon>icon_16.png</icon>
+			<needGain>0</needGain>
+			<needQuality>320</needQuality>
+		</data>
+		<data>
+			<id>51</id>
+			<idInGame>bbe99db4d56</idInGame>
+			<jp>ラノシアンソイルG3</jp>
+			<en>Grade 3 La Noscean Topsoil</en>
+			<fr>Terreau noscéen III</fr>
+			<de>La Noscea-Humus III</de>
+			<icon>icon_40.png</icon>
+			<needGain>353</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>52</id>
+			<idInGame>16ab5e814a6</idInGame>
+			<jp>シュラウドソイルG3</jp>
+			<en>Grade 3 Shroud Topsoil</en>
+			<fr>Terreau sombrelinçois III</fr>
+			<de>Finsterwald-Humus III</de>
+			<icon>icon_33.png</icon>
+			<needGain>353</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>53</id>
+			<idInGame>99c182660c9</idInGame>
+			<jp>ザナラーンソイルG3</jp>
+			<en>Grade 3 Thanalan Topsoil</en>
+			<fr>Terreau thanalanais III</fr>
+			<de>Thanalan-Humus III</de>
+			<icon>icon_30.png</icon>
+			<needGain>353</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>54</id>
+			<idInGame>a64400353bf</idInGame>
+			<jp>ゼーメルトマトの種</jp>
+			<en>Dzemael Tomato Seeds</en>
+			<fr>Graines de tomate Dzemael</fr>
+			<de>Dzemael-Tomatensamen</de>
+			<icon>icon_38.png</icon>
+			<needGain>0</needGain>
+			<needQuality>320</needQuality>
+		</data>
+		<data>
+			<id>55</id>
+			<idInGame>44e70ca67eb</idInGame>
+			<jp>ハニーレモンの種</jp>
+			<en>Honey Lemon Seeds</en>
+			<fr>Graines de citronnier miel</fr>
+			<de>Honigzitronenkerne</de>
+			<icon>icon_29.png</icon>
+			<needGain>0</needGain>
+			<needQuality>320</needQuality>
+		</data>
+		<data>
+			<id>56</id>
+			<idInGame>5b3b45f1a33</idInGame>
+			<jp>パイナップルの種</jp>
+			<en>Prickly Pineapple Seeds</en>
+			<fr>Graines d&apos;ananas épineux</fr>
+			<de>Ananassamen</de>
+			<icon>icon_37.png</icon>
+			<needGain>0</needGain>
+			<needQuality>320</needQuality>
+		</data>
+	</items>
+	<areas>
+		<data>
+			<id>1</id>
+			<jp>ラノシア</jp>
+			<en>La Noscea</en>
+			<fr>Noscea</fr>
+			<de>La Noscea</de>
+		</data>
+		<data>
+			<id>2</id>
+			<jp>リムサ・ロミンサ：上甲板層</jp>
+			<en>Limsa Lominsa Upper Decks</en>
+			<fr>Limsa Lominsa - Le Tillac</fr>
+			<de>Obere Decks</de>
+		</data>
+		<data>
+			<id>3</id>
+			<jp>リムサ・ロミンサ：下甲板層</jp>
+			<en>Limsa Lominsa Lower Decks</en>
+			<fr>Limsa Lominsa - L&apos;Entrepont</fr>
+			<de>Untere Decks</de>
+		</data>
+		<data>
+			<id>4</id>
+			<jp>中央ラノシア</jp>
+			<en>Middle La Noscea</en>
+			<fr>Noscea centrale</fr>
+			<de>Zentrales La Noscea</de>
+		</data>
+		<data>
+			<id>5</id>
+			<jp>低地ラノシア</jp>
+			<en>Lower La Noscea</en>
+			<fr>Basse-Noscea</fr>
+			<de>Unteres La Noscea</de>
+		</data>
+		<data>
+			<id>6</id>
+			<jp>東ラノシア</jp>
+			<en>Eastern La Noscea</en>
+			<fr>Noscea orientale</fr>
+			<de>Östliches La Noscea</de>
+		</data>
+		<data>
+			<id>7</id>
+			<jp>西ラノシア</jp>
+			<en>Western La Noscea</en>
+			<fr>Noscea occidentale</fr>
+			<de>Westliches La Noscea</de>
+		</data>
+		<data>
+			<id>8</id>
+			<jp>高地ラノシア</jp>
+			<en>Upper La Noscea</en>
+			<fr>Haute-Noscea</fr>
+			<de>Oberes La Noscea</de>
+		</data>
+		<data>
+			<id>9</id>
+			<jp>サスタシャ浸食洞</jp>
+			<en>Sastasha</en>
+			<fr>Sastasha</fr>
+			<de>Sastasha-Höhle</de>
+		</data>
+		<data>
+			<id>10</id>
+			<jp>ブレイフロクスの野営地</jp>
+			<en>Brayflox&apos;s Longstop</en>
+			<fr>Bivouac de Brayflox</fr>
+			<de>Brüllvolx&apos; Langrast</de>
+		</data>
+		<data>
+			<id>11</id>
+			<jp>ワンダラーパレス</jp>
+			<en>The Wanderer&apos;s Palace</en>
+			<fr>Palais du Vagabond</fr>
+			<de>Palast des Wanderers</de>
+		</data>
+		<data>
+			<id>12</id>
+			<jp>ウルヴズジェイル</jp>
+			<en>The Wolves&apos; Den</en>
+			<fr>L&apos;Antre des loups</fr>
+			<de>Die Wolfshöhle</de>
+		</data>
+		<data>
+			<id>13</id>
+			<jp>シリウス大灯台</jp>
+			<en>Pharos Sirius</en>
+			<fr>Phare de Sirius</fr>
+			<de>Pharos Sirius</de>
+		</data>
+		<data>
+			<id>14</id>
+			<jp>外地ラノシア</jp>
+			<en>Outer La Noscea</en>
+			<fr>Noscea extérieure</fr>
+			<de>Äußeres La Noscea</de>
+		</data>
+		<data>
+			<id>15</id>
+			<jp>アドミラルブリッジ：提督室</jp>
+			<en>Command Room</en>
+			<fr>Salon de l&apos;Amiral</fr>
+			<de>Admiralsbrücke</de>
+		</data>
+		<data>
+			<id>16</id>
+			<jp>ウルヴズジェイル係船場</jp>
+			<en>Wolves&apos; Den Pier</en>
+			<fr>Jetée de l&apos;Antre des loups</fr>
+			<de>Wolfshöhlen-Pier</de>
+		</data>
+		<data>
+			<id>17</id>
+			<jp>オ・ゴモロ火口神殿</jp>
+			<en>The Navel</en>
+			<fr>Le Nombril</fr>
+			<de>Der Nabel</de>
+		</data>
+		<data>
+			<id>18</id>
+			<jp>ミスト・ヴィレッジ</jp>
+			<en>Mist</en>
+			<fr>Brumée</fr>
+			<de>Dorf des Nebels</de>
+		</data>
+		<data>
+			<id>19</id>
+			<jp>ロータノ海</jp>
+			<en>Rhotano Sea</en>
+			<fr>Mer de Rhotano</fr>
+			<de>Rhotano-See</de>
+		</data>
+		<data>
+			<id>20</id>
+			<jp>メテオ探査坑浅部</jp>
+			<en>Upper Aetheroacoustic Exploratory Site</en>
+			<fr>Site impérial d&apos;exploration supérieur</fr>
+			<de>Obere ätheroakustische Grabung</de>
+		</data>
+		<data>
+			<id>21</id>
+			<jp>メテオ探査坑深部</jp>
+			<en>Lower Aetheroacoustic Exploratory Site</en>
+			<fr>Site impérial d&apos;exploration inférieur</fr>
+			<de>Untere ätheroakustische Grabung</de>
+		</data>
+		<data>
+			<id>22</id>
+			<jp>ラグナロク級拘束艦</jp>
+			<en>The Ragnarok</en>
+			<fr>Le Ragnarok</fr>
+			<de>Die Ragnarök</de>
+		</data>
+		<data>
+			<id>23</id>
+			<jp>稼働隔壁</jp>
+			<en>Ragnarok Drive Cylinder</en>
+			<fr>Cylindre propulseur du Ragnarok</fr>
+			<de>Antriebszylinder der Ragnarök</de>
+		</data>
+		<data>
+			<id>24</id>
+			<jp>中枢区画</jp>
+			<en>Ragnarok Central Core</en>
+			<fr>Noyau central du Ragnarok</fr>
+			<de>Kernsektor der Ragnarök</de>
+		</data>
+		<data>
+			<id>25</id>
+			<jp>サスタシャ浸食洞（逆襲要害）</jp>
+			<en>Sastasha (Hard)</en>
+			<fr>Sastasha (brutal)</fr>
+			<de>Sastasha-Höhle (schwer)</de>
+		</data>
+		<data>
+			<id>26</id>
+			<jp>ワンダラーパレス（武装聖域）</jp>
+			<en>The Wanderer&apos;s Palace (Hard)</en>
+			<fr>Palais du Vagabond (brutal)</fr>
+			<de>Palast des Wanderers (schwer)</de>
+		</data>
+		<data>
+			<id>27</id>
+			<jp>宿屋「ミズンマスト」</jp>
+			<en>Mizzenmast Inn</en>
+			<fr>Auberge de l&apos;Artimon</fr>
+			<de>Gasthaus Gaffelschoner</de>
+		</data>
+		<data>
+			<id>28</id>
+			<jp>ミスト・ヴィレッジ：コテージ</jp>
+			<en>Private Cottage - Mist</en>
+			<fr>Maisonnette - Brumée</fr>
+			<de>Privathütte (Dorf des Nebels)</de>
+		</data>
+		<data>
+			<id>29</id>
+			<jp>ミスト・ヴィレッジ：ハウス</jp>
+			<en>Private House - Mist</en>
+			<fr>Pavillon - Brumée</fr>
+			<de>Privathaus (Dorf des Nebels)</de>
+		</data>
+		<data>
+			<id>30</id>
+			<jp>ミスト・ヴィレッジ：レジデンス</jp>
+			<en>Private Mansion - Mist</en>
+			<fr>Villa - Brumée</fr>
+			<de>Privatresidenz (Dorf des Nebels)</de>
+		</data>
+		<data>
+			<id>31</id>
+			<jp>ミスト・ヴィレッジ：プライベートルーム</jp>
+			<en>Private Chambers - Mist</en>
+			<fr>Brumée (chambre individuelle)</fr>
+			<de>Nebeldorf - Zimmer</de>
+		</data>
+		<data>
+			<id>32</id>
+			<jp>対リヴァイアサン双胴船</jp>
+			<en>The Whorleater</en>
+			<fr>Le Briseur de marées</fr>
+			<de>Der Wogenbrecher</de>
+		</data>
+		<data>
+			<id>33</id>
+			<jp>ブレイフロクスの野営地（盟友支援）</jp>
+			<en>Brayflox&apos;s Longstop (Hard)</en>
+			<fr>Bivouac de Brayflox (brutal)</fr>
+			<de>Brüllvolx&apos; Langrast #0</de>
+		</data>
+		<data>
+			<id>34</id>
+			<jp>ハルブレーカー・アイル</jp>
+			<en>Hullbreaker Isle</en>
+			<fr>Île de Crèvecarène</fr>
+			<de>Schiffbrecher-Insel</de>
+		</data>
+		<data>
+			<id>35</id>
+			<jp>黒衣森</jp>
+			<en>The Black Shroud</en>
+			<fr>Forêt de Sombrelinceul</fr>
+			<de>Finsterwald</de>
+		</data>
+		<data>
+			<id>36</id>
+			<jp>グリダニア：新市街</jp>
+			<en>New Gridania</en>
+			<fr>Nouvelle Gridania</fr>
+			<de>Neu-Gridania</de>
+		</data>
+		<data>
+			<id>37</id>
+			<jp>グリダニア：旧市街</jp>
+			<en>Old Gridania</en>
+			<fr>Vieille Gridania</fr>
+			<de>Alt-Gridania</de>
+		</data>
+		<data>
+			<id>38</id>
+			<jp>黒衣森：中央森林</jp>
+			<en>Central Shroud</en>
+			<fr>Forêt centrale</fr>
+			<de>Tiefer Wald</de>
+		</data>
+		<data>
+			<id>39</id>
+			<jp>黒衣森：東部森林</jp>
+			<en>East Shroud</en>
+			<fr>Forêt de l&apos;est</fr>
+			<de>Ostwald</de>
+		</data>
+		<data>
+			<id>40</id>
+			<jp>黒衣森：南部森林</jp>
+			<en>South Shroud</en>
+			<fr>Forêt du sud</fr>
+			<de>Südwald</de>
+		</data>
+		<data>
+			<id>41</id>
+			<jp>黒衣森：北部森林</jp>
+			<en>North Shroud</en>
+			<fr>Forêt du nord</fr>
+			<de>Nordwald</de>
+		</data>
+		<data>
+			<id>42</id>
+			<jp>タムタラの墓所</jp>
+			<en>The Tam-Tara Deepcroft</en>
+			<fr>Hypogée de Tam-Tara</fr>
+			<de>Totenacker Tam-Tara</de>
+		</data>
+		<data>
+			<id>43</id>
+			<jp>ハウケタ御用邸</jp>
+			<en>Haukke Manor</en>
+			<fr>Manoir des Haukke</fr>
+			<de>Haukke-Herrenhaus</de>
+		</data>
+		<data>
+			<id>44</id>
+			<jp>トトラクの千獄</jp>
+			<en>The Thousand Maws of Toto-Rak</en>
+			<fr>Mille Gueules de Toto-Rak</fr>
+			<de>Tausend Löcher von Toto-Rak</de>
+		</data>
+		<data>
+			<id>45</id>
+			<jp>スプリガンの巣窟</jp>
+			<en>Spriggan Dig</en>
+			<fr>Trou des spriggans</fr>
+			<de>Spriggan-Nest</de>
+		</data>
+		<data>
+			<id>46</id>
+			<jp>古アムダプール市街</jp>
+			<en>The Lost City of Amdapor</en>
+			<fr>Vestiges de la Cité d&apos;Amdapor</fr>
+			<de>Historisches Amdapor</de>
+		</data>
+		<data>
+			<id>47</id>
+			<jp>古城アムダプール</jp>
+			<en>Amdapor Keep</en>
+			<fr>Château d&apos;Amdapor</fr>
+			<de>Ruinen von Amdapor</de>
+		</data>
+		<data>
+			<id>48</id>
+			<jp>神勇隊司令室</jp>
+			<en>Seat of the First Bow</en>
+			<fr>Salle de commandement du Carquois</fr>
+			<de>Kommandozimmer von Nophicas Schar </de>
+		</data>
+		<data>
+			<id>49</id>
+			<jp>不語仙の座卓</jp>
+			<en>Lotus Stand</en>
+			<fr>Chaire du lotus</fr>
+			<de>Wasserrosentisch</de>
+		</data>
+		<data>
+			<id>50</id>
+			<jp>茨の園</jp>
+			<en>Thornmarch</en>
+			<fr>Lisière de ronces</fr>
+			<de>Dornmarsch</de>
+		</data>
+		<data>
+			<id>51</id>
+			<jp>ラベンダーベッド</jp>
+			<en>The Lavender Beds</en>
+			<fr>Lavandière</fr>
+			<de>Lavendelbeete</de>
+		</data>
+		<data>
+			<id>52</id>
+			<jp>ハウケタ御用邸（妖異屋敷）</jp>
+			<en>Haukke Manor (Hard)</en>
+			<fr>Manoir des Haukke (brutal)</fr>
+			<de>Haukke-Herrenhaus (schwer)</de>
+		</data>
+		<data>
+			<id>53</id>
+			<jp>旅館「とまり木」</jp>
+			<en>The Roost</en>
+			<fr>Le Perchoir</fr>
+			<de>Der Traumbaum</de>
+		</data>
+		<data>
+			<id>54</id>
+			<jp>ラベンダーベッド：コテージ</jp>
+			<en>Private Cottage - The Lavender Beds</en>
+			<fr>Maisonnette - Lavandière</fr>
+			<de>Privathütte (Lavendelbeete)</de>
+		</data>
+		<data>
+			<id>55</id>
+			<jp>ラベンダーベッド：ハウス</jp>
+			<en>Private House - The Lavender Beds</en>
+			<fr>Pavillon - Lavandière</fr>
+			<de>Privathaus (Lavendelbeete)</de>
+		</data>
+		<data>
+			<id>56</id>
+			<jp>ラベンダーベッド：レジデンス</jp>
+			<en>Private Mansion - The Lavender Beds</en>
+			<fr>Villa - Lavandière</fr>
+			<de>Privatresidenz (Lavendelbeete)</de>
+		</data>
+		<data>
+			<id>57</id>
+			<jp>ラベンダーベッド：プライベートルーム</jp>
+			<en>Private Chambers - The Lavender Beds</en>
+			<fr>Lavandière (chambre individuelle)</fr>
+			<de>Lavendelbeete - Zimmer</de>
+		</data>
+		<data>
+			<id>58</id>
+			<jp>メテオの陰地</jp>
+			<en>Dalamud&apos;s Shadow</en>
+			<fr>Ombrage du météore</fr>
+			<de>Meteoritenkrater</de>
+		</data>
+		<data>
+			<id>59</id>
+			<jp>バインディングコイル</jp>
+			<en>The Outer Coil</en>
+			<fr>L&apos;Écheveau</fr>
+			<de>Äußere Schächte</de>
+		</data>
+		<data>
+			<id>60</id>
+			<jp>ラグナロク級三番艦：艦体中央部</jp>
+			<en>Central Decks</en>
+			<fr>Secteur central RCI-03</fr>
+			<de>Zentrale Decks</de>
+		</data>
+		<data>
+			<id>61</id>
+			<jp>ラグナロク級三番艦：作戦室</jp>
+			<en>The Holocharts</en>
+			<fr>Salle de contrôle RCI-03</fr>
+			<de>Holosphäre</de>
+		</data>
+		<data>
+			<id>62</id>
+			<jp>古木の神判地</jp>
+			<en>The Striking Tree</en>
+			<fr>Arbre du jugement</fr>
+			<de>Baum des Urteils</de>
+		</data>
+		<data>
+			<id>63</id>
+			<jp>タムタラの墓所（惨劇霊殿）</jp>
+			<en>The Tam-Tara Deepcroft (Hard)</en>
+			<fr>Hypogée de Tam-Tara (brutal)</fr>
+			<de>Totenacker Tam-Tara (schwer)</de>
+		</data>
+		<data>
+			<id>64</id>
+			<jp>古城アムダプール（邪念排撃）</jp>
+			<en>Amdapor Keep (Hard)</en>
+			<fr>Château d&apos;Amdapor (brutal)</fr>
+			<de>Die Ruinen von Amdapor (schwer)</de>
+		</data>
+		<data>
+			<id>65</id>
+			<jp>ザナラーン</jp>
+			<en>Thanalan</en>
+			<fr>Thanalan</fr>
+			<de>Thanalan</de>
+		</data>
+		<data>
+			<id>66</id>
+			<jp>ウルダハ：ナル回廊</jp>
+			<en>Ul&apos;dah - Steps of Nald</en>
+			<fr>Ul&apos;dah - Faubourg de Nald</fr>
+			<de>Nald-Kreuzgang</de>
+		</data>
+		<data>
+			<id>67</id>
+			<jp>ウルダハ：ザル回廊</jp>
+			<en>Ul&apos;dah - Steps of Thal</en>
+			<fr>Ul&apos;dah - Faubourg de Thal</fr>
+			<de>Thal-Kreuzgang</de>
+		</data>
+		<data>
+			<id>68</id>
+			<jp>西ザナラーン</jp>
+			<en>Western Thanalan</en>
+			<fr>Thanalan occidental</fr>
+			<de>Westliches Thanalan</de>
+		</data>
+		<data>
+			<id>69</id>
+			<jp>中央ザナラーン</jp>
+			<en>Central Thanalan</en>
+			<fr>Thanalan central</fr>
+			<de>Zentrales Thanalan</de>
+		</data>
+		<data>
+			<id>70</id>
+			<jp>東ザナラーン</jp>
+			<en>Eastern Thanalan</en>
+			<fr>Thanalan oriental</fr>
+			<de>Östliches Thanalan</de>
+		</data>
+		<data>
+			<id>71</id>
+			<jp>南ザナラーン</jp>
+			<en>Southern Thanalan</en>
+			<fr>Thanalan méridional</fr>
+			<de>Südliches Thanalan</de>
+		</data>
+		<data>
+			<id>72</id>
+			<jp>北ザナラーン</jp>
+			<en>Northern Thanalan</en>
+			<fr>Thanalan septentrional</fr>
+			<de>Nördliches Thanalan</de>
+		</data>
+		<data>
+			<id>73</id>
+			<jp>カッターズクライ</jp>
+			<en>Cutter&apos;s Cry</en>
+			<fr>Gouffre hurlant</fr>
+			<de>Sägerschrei</de>
+		</data>
+		<data>
+			<id>74</id>
+			<jp>カッパーベル銅山</jp>
+			<en>Copperbell Mines</en>
+			<fr>Mines de Clochecuivre</fr>
+			<de>Kupferglocken-Mine</de>
+		</data>
+		<data>
+			<id>75</id>
+			<jp>ハラタリ修練所</jp>
+			<en>Halatali</en>
+			<fr>Halatali</fr>
+			<de>Halatali</de>
+		</data>
+		<data>
+			<id>76</id>
+			<jp>カルン埋没寺院</jp>
+			<en>The Sunken Temple of Qarn</en>
+			<fr>Temple enseveli de Qarn</fr>
+			<de>Versunkener Tempel von Qarn</de>
+		</data>
+		<data>
+			<id>77</id>
+			<jp>カストルム・メリディアヌム</jp>
+			<en>Castrum Meridianum</en>
+			<fr>Castrum Meridianum</fr>
+			<de>Castrum Meridianum</de>
+		</data>
+		<data>
+			<id>78</id>
+			<jp>銀冑団総長室</jp>
+			<en>Heart of the Sworn</en>
+			<fr>Hall d&apos;argent</fr>
+			<de>Hauptquartier der Palastwache</de>
+		</data>
+		<data>
+			<id>79</id>
+			<jp>香煙の間</jp>
+			<en>The Fragrant Chamber</en>
+			<fr>Chambre de l&apos;encens</fr>
+			<de>Die Weihrauchkammer</de>
+		</data>
+		<data>
+			<id>80</id>
+			<jp>砂の家</jp>
+			<en>The Waking Sands</en>
+			<fr>Refuge des sables</fr>
+			<de>Sonnenwind</de>
+		</data>
+		<data>
+			<id>81</id>
+			<jp>炎帝祭跡</jp>
+			<en>Bowl of Embers</en>
+			<fr>Cratère des tisons</fr>
+			<de>Das Grab der Lohe</de>
+		</data>
+		<data>
+			<id>82</id>
+			<jp>ゴブレットビュート</jp>
+			<en>The Goblet</en>
+			<fr>La Coupe</fr>
+			<de>Kelchkuppe</de>
+		</data>
+		<data>
+			<id>83</id>
+			<jp>魔導城プラエトリウム</jp>
+			<en>Praetorium</en>
+			<fr>Praetorium</fr>
+			<de>Praetorium</de>
+		</data>
+		<data>
+			<id>84</id>
+			<jp>ポルタ・デクマーナ</jp>
+			<en>Porta Decumana</en>
+			<fr>Porta decumana</fr>
+			<de>Porta Decumana</de>
+		</data>
+		<data>
+			<id>85</id>
+			<jp>カッパーベル銅山（騒乱坑道）</jp>
+			<en>Copperbell Mines (Hard)</en>
+			<fr>Mines de Clochecuivre (brutal)</fr>
+			<de>Kupferglocken-Mine (schwer)</de>
+		</data>
+		<data>
+			<id>86</id>
+			<jp>宿屋「砂時計亭」</jp>
+			<en>The Hourglass</en>
+			<fr>Le Sablier</fr>
+			<de>Die Sanduhr</de>
+		</data>
+		<data>
+			<id>87</id>
+			<jp>ゴブレットビュート：コテージ</jp>
+			<en>Private Cottage - The Goblet</en>
+			<fr>Maisonnette - la Coupe</fr>
+			<de>Privathütte (Kelchkuppe)</de>
+		</data>
+		<data>
+			<id>88</id>
+			<jp>ゴブレットビュート：ハウス</jp>
+			<en>Private House - The Goblet</en>
+			<fr>Pavillon - la Coupe</fr>
+			<de>Privathaus (Kelchkuppe)</de>
+		</data>
+		<data>
+			<id>89</id>
+			<jp>ゴブレットビュート：レジデンス</jp>
+			<en>Private Mansion - The Goblet</en>
+			<fr>Villa - la Coupe</fr>
+			<de>Privatresidenz (Kelchkuppe)</de>
+		</data>
+		<data>
+			<id>90</id>
+			<jp>ゴブレットビュート：プライベートルーム</jp>
+			<en>Private Chambers - The Goblet</en>
+			<fr>La Coupe (chambre individuelle)</fr>
+			<de>Kelchkuppe - Zimmer</de>
+		</data>
+		<data>
+			<id>91</id>
+			<jp>ハラタリ修練所（剣闘領域）</jp>
+			<en>Halatali (Hard)</en>
+			<fr>Halatali (brutal)</fr>
+			<de>Halatali #0</de>
+		</data>
+		<data>
+			<id>92</id>
+			<jp>ラグナロク級六番艦：艦体中央部</jp>
+			<en>IC-06 Central Decks</en>
+			<fr>Secteur central RCI-06</fr>
+			<de>Zentrale Decks RVH-06</de>
+		</data>
+		<data>
+			<id>93</id>
+			<jp>ラグナロク級六番艦：再生制御区</jp>
+			<en>IC-06 Regeneration Grid</en>
+			<fr>Réseau de régénération RCI-06</fr>
+			<de>Regenerationssektor RVH-06</de>
+		</data>
+		<data>
+			<id>94</id>
+			<jp>ラグナロク級六番艦：第一艦橋</jp>
+			<en>IC-06 Main Bridge</en>
+			<fr>Pont principal RCI-06</fr>
+			<de>Kommandobrücke RVH-06</de>
+		</data>
+		<data>
+			<id>95</id>
+			<jp>バハムートコア</jp>
+			<en>The Burning Heart</en>
+			<fr>Cœur de Bahamut</fr>
+			<de>Bahamuts Herz</de>
+		</data>
+		<data>
+			<id>96</id>
+			<jp>クルザス</jp>
+			<en>Coerthas</en>
+			<fr>Coerthas</fr>
+			<de>Coerthas</de>
+		</data>
+		<data>
+			<id>97</id>
+			<jp>クルザス中央高地</jp>
+			<en>Coerthas Central Highlands</en>
+			<fr>Hautes terres du Coerthas central</fr>
+			<de>Zentrales Hochland von Coerthas</de>
+		</data>
+		<data>
+			<id>98</id>
+			<jp>ゼーメル要塞</jp>
+			<en>Dzemael Darkhold</en>
+			<fr>Forteresse de Dzemael</fr>
+			<de>Feste Dzemael</de>
+		</data>
+		<data>
+			<id>99</id>
+			<jp>オーラムヴェイル</jp>
+			<en>Aurum Vale</en>
+			<fr>Val d&apos;aurum</fr>
+			<de>Goldklamm</de>
+		</data>
+		<data>
+			<id>100</id>
+			<jp>ハウリングアイ石塔群</jp>
+			<en>The Howling Eye</en>
+			<fr>Hurlœil</fr>
+			<de>Das Tosende Auge</de>
+		</data>
+		<data>
+			<id>101</id>
+			<jp>グリフィン大橋</jp>
+			<en>Griffin Crossing</en>
+			<fr>Traversée du Griffon</fr>
+			<de>Greifenbrücke</de>
+		</data>
+		<data>
+			<id>102</id>
+			<jp>ストーンヴィジル</jp>
+			<en>Stone Vigil</en>
+			<fr>Vigile de pierre</fr>
+			<de>Steinerne Wacht</de>
+		</data>
+		<data>
+			<id>103</id>
+			<jp>スノークローク大氷壁</jp>
+			<en>Snowcloak</en>
+			<fr>Manteneige</fr>
+			<de>Schneekleid</de>
+		</data>
+		<data>
+			<id>104</id>
+			<jp>雲廊</jp>
+			<en>Steps of Faith</en>
+			<fr>Avancée de la Foi</fr>
+			<de>Schicksalsweg</de>
+		</data>
+		<data>
+			<id>105</id>
+			<jp>ストーンヴィジル（城塞奪回）</jp>
+			<en>The Stone Vigil (Hard)</en>
+			<fr>Vigile de pierre (brutal)</fr>
+			<de>Steinerne Wacht (schwer)</de>
+		</data>
+		<data>
+			<id>106</id>
+			<jp>アク・アファー円形劇場</jp>
+			<en>Akh Afah Amphitheatre</en>
+			<fr>Amphithéâtre d&apos;Akh Afah</fr>
+			<de>Akh Afah</de>
+		</data>
+		<data>
+			<id>107</id>
+			<jp>モードゥナ</jp>
+			<en>Mor Dhona</en>
+			<fr>Mor Dhona</fr>
+			<de>Mor Dhona</de>
+		</data>
+		<data>
+			<id>108</id>
+			<jp>黙約の塔</jp>
+			<en>The Keeper of the Lake</en>
+			<fr>Gardien du lac</fr>
+			<de>Der Hüter des Sees</de>
+		</data>
+		<data>
+			<id>109</id>
+			<jp>古代の民の迷宮</jp>
+			<en>Labyrinth of the Ancients</en>
+			<fr>Dédale antique</fr>
+			<de>Labyrinth der Alten</de>
+		</data>
+		<data>
+			<id>110</id>
+			<jp>石の家</jp>
+			<en>The Rising Stones</en>
+			<fr>Refuge des roches</fr>
+			<de>Sonnenstein</de>
+		</data>
+		<data>
+			<id>111</id>
+			<jp>シルクスの塔</jp>
+			<en>Syrcus Tower</en>
+			<fr>Tour de Syrcus</fr>
+			<de>Syrcus-Turm</de>
+		</data>
+		<data>
+			<id>112</id>
+			<jp>カルテノー平原：外縁遺跡群</jp>
+			<en>Carteneau Flats: Borderland Ruins</en>
+			<fr>Ruines frontalières</fr>
+			<de>Äußere Ruinen</de>
+		</data>
+		<data>
+			<id>113</id>
+			<jp>戒律の殻</jp>
+			<en>The Chrysalis</en>
+			<fr>La Chrysalide</fr>
+			<de>Chrysalis</de>
+		</data>
+		<data>
+			<id>114</id>
+			<jp>闇の世界</jp>
+			<en>The World of Darkness</en>
+			<fr>Monde des Ténèbres</fr>
+			<de>Welt der Dunkelheit</de>
+		</data>
+	</areas>
+	<gathering>
+		<data>
+			<id>1</id>
+			<timeFrom>1:00</timeFrom>
+			<timeTo>4:00</timeTo>
+			<type>0</type>
+			<title />
+			<mapId>97</mapId>
+			<locationX>27</locationX>
+			<locationY>19</locationY>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data>10</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<representative>3</representative>
+		</data>
+		<data>
+			<id>2</id>
+			<timeFrom>1:00</timeFrom>
+			<timeTo>4:00</timeTo>
+			<type>1</type>
+			<title />
+			<mapId>107</mapId>
+			<locationX>31</locationX>
+			<locationY>14</locationY>
+			<note />
+			<detail>
+				<data>48</data>
+				<data>46</data>
+				<data>42</data>
+				<data>44</data>
+				<data>47</data>
+				<data>43</data>
+				<data>45</data>
+				<data>21</data>
+			</detail>
+			<representative>3</representative>
+		</data>
+		<data>
+			<id>38</id>
+			<timeFrom>1:00</timeFrom>
+			<timeTo>4:00</timeTo>
+			<type>0</type>
+			<title />
+			<mapId>6</mapId>
+			<locationX>15</locationX>
+			<locationY>27</locationY>
+			<note />
+			<detail>
+				<data>22</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<representative>1</representative>
+		</data>
+		<data>
+			<id>3</id>
+			<timeFrom>2:00</timeFrom>
+			<timeTo>5:00</timeTo>
+			<type>1</type>
+			<title />
+			<mapId>38</mapId>
+			<locationX>15</locationX>
+			<locationY>21</locationY>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>40</data>
+				<data />
+				<data />
+			</detail>
+			<representative>6</representative>
+		</data>
+		<data>
+			<id>4</id>
+			<timeFrom>2:00</timeFrom>
+			<timeTo>5:00</timeTo>
+			<type>1</type>
+			<title />
+			<mapId>40</mapId>
+			<locationX>18</locationX>
+			<locationY>23</locationY>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>30</data>
+				<data />
+				<data />
+			</detail>
+			<representative>6</representative>
+		</data>
+		<data>
+			<id>34</id>
+			<timeFrom>2:00</timeFrom>
+			<timeTo>5:00</timeTo>
+			<type>0</type>
+			<title />
+			<mapId>70</mapId>
+			<locationX>26</locationX>
+			<locationY>18</locationY>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>20</data>
+				<data />
+			</detail>
+			<representative>7</representative>
+		</data>
+		<data>
+			<id>5</id>
+			<timeFrom>3:00</timeFrom>
+			<timeTo>6:00</timeTo>
+			<type>1</type>
+			<title />
+			<mapId>41</mapId>
+			<locationX>15</locationX>
+			<locationY>26</locationY>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data>34</data>
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<representative>4</representative>
+		</data>
+		<data>
+			<id>6</id>
+			<timeFrom>3:00</timeFrom>
+			<timeTo>6:00</timeTo>
+			<type>0</type>
+			<title />
+			<mapId>72</mapId>
+			<locationX>16</locationX>
+			<locationY>20</locationY>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>11</data>
+				<data>15</data>
+				<data>16</data>
+			</detail>
+			<representative>8</representative>
+		</data>
+		<data>
+			<id>7</id>
+			<timeFrom>4:00</timeFrom>
+			<timeTo>7:00</timeTo>
+			<type>0</type>
+			<title />
+			<mapId>69</mapId>
+			<locationX>25</locationX>
+			<locationY>15</locationY>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>25</data>
+				<data>14</data>
+				<data>13</data>
+			</detail>
+			<representative>8</representative>
+		</data>
+		<data>
+			<id>36</id>
+			<timeFrom>4:00</timeFrom>
+			<timeTo>7:00</timeTo>
+			<type>1</type>
+			<title />
+			<mapId>4</mapId>
+			<locationX>25</locationX>
+			<locationY>25</locationY>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>27</data>
+				<data />
+				<data />
+			</detail>
+			<representative>6</representative>
+		</data>
+		<data>
+			<id>37</id>
+			<timeFrom>4:00</timeFrom>
+			<timeTo>7:00</timeTo>
+			<type>0</type>
+			<title />
+			<mapId>71</mapId>
+			<locationX>15</locationX>
+			<locationY>12</locationY>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>9</data>
+				<data />
+				<data />
+			</detail>
+			<representative>6</representative>
+		</data>
+		<data>
+			<id>8</id>
+			<timeFrom>5:00</timeFrom>
+			<timeTo>8:00</timeTo>
+			<type>1</type>
+			<title />
+			<mapId>6</mapId>
+			<locationX>26</locationX>
+			<locationY>32</locationY>
+			<note />
+			<detail>
+				<data>55</data>
+				<data>4</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<representative>2</representative>
+		</data>
+		<data>
+			<id>9</id>
+			<timeFrom>5:00</timeFrom>
+			<timeTo>8:00</timeTo>
+			<type>1</type>
+			<title />
+			<mapId>39</mapId>
+			<locationX>19</locationX>
+			<locationY>17</locationY>
+			<note />
+			<detail>
+				<data>37</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<representative>1</representative>
+		</data>
+		<data>
+			<id>10</id>
+			<timeFrom>5:00</timeFrom>
+			<timeTo>8:00</timeTo>
+			<type>0</type>
+			<title />
+			<mapId>68</mapId>
+			<locationX>19</locationX>
+			<locationY>28</locationY>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>47</data>
+				<data />
+				<data />
+				<data>53</data>
+			</detail>
+			<representative>8</representative>
+		</data>
+		<data>
+			<id>11</id>
+			<timeFrom>5:00</timeFrom>
+			<timeTo>8:00</timeTo>
+			<type>0</type>
+			<title />
+			<mapId>70</mapId>
+			<locationX>27</locationX>
+			<locationY>22</locationY>
+			<note />
+			<detail>
+				<data />
+				<data>24</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<representative>2</representative>
+		</data>
+		<data>
+			<id>12</id>
+			<timeFrom>5:00</timeFrom>
+			<timeTo>8:00</timeTo>
+			<type>1</type>
+			<title />
+			<mapId>107</mapId>
+			<locationX>31</locationX>
+			<locationY>14</locationY>
+			<note />
+			<detail>
+				<data>48</data>
+				<data>46</data>
+				<data>42</data>
+				<data>44</data>
+				<data>47</data>
+				<data>43</data>
+				<data>45</data>
+				<data>21</data>
+			</detail>
+			<representative>3</representative>
+		</data>
+		<data>
+			<id>13</id>
+			<timeFrom>6:00</timeFrom>
+			<timeTo>9:00</timeTo>
+			<type>1</type>
+			<title />
+			<mapId>5</mapId>
+			<locationX>31</locationX>
+			<locationY>13</locationY>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>2</data>
+				<data />
+				<data />
+			</detail>
+			<representative>6</representative>
+		</data>
+		<data>
+			<id>14</id>
+			<timeFrom>6:00</timeFrom>
+			<timeTo>9:00</timeTo>
+			<type>0</type>
+			<title />
+			<mapId>40</mapId>
+			<locationX>16</locationX>
+			<locationY>31</locationY>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>19</data>
+				<data>52</data>
+			</detail>
+			<representative>8</representative>
+		</data>
+		<data>
+			<id>35</id>
+			<timeFrom>6:00</timeFrom>
+			<timeTo>9:00</timeTo>
+			<type>1</type>
+			<title />
+			<mapId>38</mapId>
+			<locationX>30</locationX>
+			<locationY>19</locationY>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>31</data>
+				<data />
+				<data />
+			</detail>
+			<representative>6</representative>
+		</data>
+		<data>
+			<id>15</id>
+			<timeFrom>7:00</timeFrom>
+			<timeTo>10:00</timeTo>
+			<type>1</type>
+			<title />
+			<mapId>8</mapId>
+			<locationX>28</locationX>
+			<locationY>25</locationY>
+			<note />
+			<detail>
+				<data />
+				<data>7</data>
+				<data />
+				<data />
+				<data />
+				<data>26</data>
+				<data />
+				<data />
+			</detail>
+			<representative>6</representative>
+		</data>
+		<data>
+			<id>16</id>
+			<timeFrom>8:00</timeFrom>
+			<timeTo>11:00</timeTo>
+			<type>1</type>
+			<title />
+			<mapId>7</mapId>
+			<locationX>33</locationX>
+			<locationY>27</locationY>
+			<note />
+			<detail>
+				<data>33</data>
+				<data>33</data>
+				<data>33</data>
+				<data>33</data>
+				<data>33</data>
+				<data>1</data>
+				<data>33</data>
+				<data>33</data>
+			</detail>
+			<representative>6</representative>
+		</data>
+		<data>
+			<id>17</id>
+			<timeFrom>9:00</timeFrom>
+			<timeTo>12:00</timeTo>
+			<type>1</type>
+			<title />
+			<mapId>4</mapId>
+			<locationX>17</locationX>
+			<locationY>16</locationY>
+			<note />
+			<detail>
+				<data />
+				<data>6</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<representative>2</representative>
+		</data>
+		<data>
+			<id>18</id>
+			<timeFrom>9:00</timeFrom>
+			<timeTo>12:00</timeTo>
+			<type>1</type>
+			<title />
+			<mapId>6</mapId>
+			<locationX>31</locationX>
+			<locationY>26</locationY>
+			<note />
+			<detail>
+				<data>56</data>
+				<data />
+				<data />
+				<data>5</data>
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<representative>4</representative>
+		</data>
+		<data>
+			<id>19</id>
+			<timeFrom>9:00</timeFrom>
+			<timeTo>12:00</timeTo>
+			<type>0</type>
+			<title />
+			<mapId>70</mapId>
+			<locationX>29</locationX>
+			<locationY>24</locationY>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>8</data>
+				<data>49</data>
+				<data />
+			</detail>
+			<representative>6</representative>
+		</data>
+		<data>
+			<id>20</id>
+			<timeFrom>9:00</timeFrom>
+			<timeTo>12:00</timeTo>
+			<type>1</type>
+			<title />
+			<mapId>97</mapId>
+			<locationX>31</locationX>
+			<locationY>14</locationY>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>28</data>
+				<data />
+				<data />
+			</detail>
+			<representative>6</representative>
+		</data>
+		<data>
+			<id>21</id>
+			<timeFrom>9:00</timeFrom>
+			<timeTo>12:00</timeTo>
+			<type>1</type>
+			<title />
+			<mapId>107</mapId>
+			<locationX>31</locationX>
+			<locationY>14</locationY>
+			<note />
+			<detail>
+				<data>48</data>
+				<data>46</data>
+				<data>42</data>
+				<data>44</data>
+				<data>47</data>
+				<data>43</data>
+				<data>45</data>
+				<data>21</data>
+			</detail>
+			<representative>3</representative>
+		</data>
+		<data>
+			<id>39</id>
+			<timeFrom>10:00</timeFrom>
+			<timeTo>13:00</timeTo>
+			<type>1</type>
+			<title />
+			<mapId>38</mapId>
+			<locationX>24</locationX>
+			<locationY>31</locationY>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>29</data>
+				<data />
+				<data />
+			</detail>
+			<representative>6</representative>
+		</data>
+		<data>
+			<id>22</id>
+			<timeFrom>13:00</timeFrom>
+			<timeTo>16:00</timeTo>
+			<type>1</type>
+			<title />
+			<mapId>6</mapId>
+			<locationX>17</locationX>
+			<locationY>28</locationY>
+			<note />
+			<detail>
+				<data>54</data>
+				<data />
+				<data>0</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<representative>3</representative>
+		</data>
+		<data>
+			<id>23</id>
+			<timeFrom>13:00</timeFrom>
+			<timeTo>16:00</timeTo>
+			<type>1</type>
+			<title />
+			<mapId>97</mapId>
+			<locationX>27</locationX>
+			<locationY>23</locationY>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>39</data>
+			</detail>
+			<representative>8</representative>
+		</data>
+		<data>
+			<id>24</id>
+			<timeFrom>13:00</timeFrom>
+			<timeTo>16:00</timeTo>
+			<type>1</type>
+			<title />
+			<mapId>70</mapId>
+			<locationX>12</locationX>
+			<locationY>16</locationY>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>3</data>
+				<data />
+			</detail>
+			<representative>7</representative>
+		</data>
+		<data>
+			<id>25</id>
+			<timeFrom>13:00</timeFrom>
+			<timeTo>16:00</timeTo>
+			<type>0</type>
+			<title />
+			<mapId>107</mapId>
+			<locationX>28</locationX>
+			<locationY>12</locationY>
+			<note />
+			<detail>
+				<data>48</data>
+				<data>46</data>
+				<data>42</data>
+				<data>44</data>
+				<data>47</data>
+				<data>43</data>
+				<data>45</data>
+				<data>21</data>
+			</detail>
+			<representative>3</representative>
+		</data>
+		<data>
+			<id>26</id>
+			<timeFrom>17:00</timeFrom>
+			<timeTo>20:00</timeTo>
+			<type>0</type>
+			<title />
+			<mapId>6</mapId>
+			<locationX>17</locationX>
+			<locationY>34</locationY>
+			<note />
+			<detail>
+				<data>35</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<representative>1</representative>
+		</data>
+		<data>
+			<id>27</id>
+			<timeFrom>17:00</timeFrom>
+			<timeTo>20:00</timeTo>
+			<type>1</type>
+			<title />
+			<mapId>97</mapId>
+			<locationX>7</locationX>
+			<locationY>11</locationY>
+			<note />
+			<detail>
+				<data />
+				<data>36</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<representative>2</representative>
+		</data>
+		<data>
+			<id>28</id>
+			<timeFrom>17:00</timeFrom>
+			<timeTo>20:00</timeTo>
+			<type>0</type>
+			<title />
+			<mapId>107</mapId>
+			<locationX>28</locationX>
+			<locationY>12</locationY>
+			<note />
+			<detail>
+				<data>48</data>
+				<data>46</data>
+				<data>42</data>
+				<data>44</data>
+				<data>47</data>
+				<data>43</data>
+				<data>45</data>
+				<data>21</data>
+			</detail>
+			<representative>3</representative>
+		</data>
+		<data>
+			<id>40</id>
+			<timeFrom>17:00</timeFrom>
+			<timeTo>20:00</timeTo>
+			<type>1</type>
+			<title />
+			<mapId>39</mapId>
+			<locationX>22</locationX>
+			<locationY>30</locationY>
+			<note />
+			<detail>
+				<data>41</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<representative>1</representative>
+		</data>
+		<data>
+			<id>41</id>
+			<timeFrom>17:00</timeFrom>
+			<timeTo>20:00</timeTo>
+			<type>0</type>
+			<title />
+			<mapId>72</mapId>
+			<locationX>23</locationX>
+			<locationY>22</locationY>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>23</data>
+				<data />
+				<data />
+			</detail>
+			<representative>6</representative>
+		</data>
+		<data>
+			<id>29</id>
+			<timeFrom>18:00</timeFrom>
+			<timeTo>21:00</timeTo>
+			<type>0</type>
+			<title />
+			<mapId>5</mapId>
+			<locationX>23</locationX>
+			<locationY>21</locationY>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>12</data>
+				<data>17</data>
+			</detail>
+			<representative>7</representative>
+		</data>
+		<data>
+			<id>30</id>
+			<timeFrom>19:00</timeFrom>
+			<timeTo>22:00</timeTo>
+			<type>0</type>
+			<title />
+			<mapId>4</mapId>
+			<locationX>23</locationX>
+			<locationY>26</locationY>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data>42</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>51</data>
+			</detail>
+			<representative>8</representative>
+		</data>
+		<data>
+			<id>31</id>
+			<timeFrom>21:00</timeFrom>
+			<timeTo>24:00</timeTo>
+			<type>1</type>
+			<title />
+			<mapId>39</mapId>
+			<locationX>12</locationX>
+			<locationY>24</locationY>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>50</data>
+				<data>38</data>
+			</detail>
+			<representative>8</representative>
+		</data>
+		<data>
+			<id>32</id>
+			<timeFrom>21:00</timeFrom>
+			<timeTo>24:00</timeTo>
+			<type>0</type>
+			<title />
+			<mapId>97</mapId>
+			<locationX>22</locationX>
+			<locationY>24</locationY>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>18</data>
+				<data />
+			</detail>
+			<representative>7</representative>
+		</data>
+		<data>
+			<id>33</id>
+			<timeFrom>21:00</timeFrom>
+			<timeTo>24:00</timeTo>
+			<type>0</type>
+			<title />
+			<mapId>107</mapId>
+			<locationX>28</locationX>
+			<locationY>12</locationY>
+			<note />
+			<detail>
+				<data>48</data>
+				<data>46</data>
+				<data>42</data>
+				<data>44</data>
+				<data>47</data>
+				<data>43</data>
+				<data>45</data>
+				<data>21</data>
+			</detail>
+			<representative>3</representative>
+		</data>
+	</gathering>
+</gathererInfo>

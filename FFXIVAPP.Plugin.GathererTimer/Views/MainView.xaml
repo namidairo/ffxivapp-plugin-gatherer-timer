@@ -117,7 +117,7 @@
             <Expander Header="{Binding Locale[title_map], Source={StaticResource PluginViewModel}}" HorizontalAlignment="Left" VerticalAlignment="Top" IsExpanded="{Binding IsExpandMap, Source={x:Static Properties:Settings.Default}}" Width="Auto" MinWidth="320" Height="Auto">
                 <StackPanel HorizontalAlignment="Left" Height="Auto" Margin="0,0,0,0" VerticalAlignment="Top" Width="Auto">
                     <Label x:Name="lbAreaName" Content="Area Name" VerticalAlignment="Top" FontWeight="Bold" Padding="0" HorizontalAlignment="Left" Margin="0"/>
-                    <Image x:Name="imgMap" Height="300" VerticalAlignment="Top" Source="/FFXIVAPP.Plugin.GathererTimer;component/Media/Images/map_error.png" SnapsToDevicePixels="False" MinHeight="300" MinWidth="300" HorizontalAlignment="Left" Width="300" Margin="5"/>
+                    <Image x:Name="imgMap" Height="300" VerticalAlignment="Top" Source="/FFXIVAPP.Plugin.GathererTimer;component/Data/Maps/map_error.png" SnapsToDevicePixels="False" MinHeight="300" MinWidth="300" HorizontalAlignment="Left" Width="300" Margin="5"/>
                 </StackPanel>
             </Expander>
 

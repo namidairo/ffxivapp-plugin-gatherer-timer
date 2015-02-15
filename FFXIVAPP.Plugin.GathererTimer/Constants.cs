@@ -175,8 +175,6 @@ namespace FFXIVAPP.Plugin.GathererTimer
 
         public static string Theme { get; set; }
 
-        public static string PluginDir { get; set; }
-
         #endregion
     }
 }

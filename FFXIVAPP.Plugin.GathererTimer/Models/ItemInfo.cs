@@ -61,12 +61,7 @@ namespace FFXIVAPP.Plugin.GathererTimer.Models {
         }
         public String Icon {
             get {
-                String iconBaseDir = Path.Combine(Constants.PluginDir, "Icons");
-                String ret = Path.Combine(iconBaseDir, IconFileName);
-                if (!File.Exists(ret)) {
-                    ret = Path.Combine(iconBaseDir, "icon_error.png");
-                }
-                return ret;
+                return "pack://application:,,,/FFXIVAPP.Plugin.GathererTimer;component/Data/Icons/" + IconFileName;
             }
         }
 

@@ -133,8 +133,7 @@ namespace FFXIVAPP.Plugin.GathererTimer.ViewModels
             for (int i = 0; i < 8; i++) {
                 listDummyDetail.Add(Constants.DUMMY_ITEM);
             }
-            bmpDummyMap = Utility.CreateBitmapImageFromFile(Path.Combine(Constants.PluginDir, "Maps", "map_error.png"));
-
+            bmpDummyMap = new BitmapImage(new Uri("pack://application:,,,/FFXIVAPP.Plugin.GathererTimer;component/Data/Maps/map_error.png"));
             UpdateTimeText();
             UpdateGatheringStatus();
             UpdateGatheringListOrder();
@@ -212,9 +211,8 @@ namespace FFXIVAPP.Plugin.GathererTimer.ViewModels
             }
 
             // set data
-            bmpWorkMap = Utility.CreateBitmapImageFromFile(gInfo.MapImagePath);
             MainView.View.lbAreaName.Content = gInfo.AreaName;
-            MainView.View.imgMap.Source = bmpWorkMap;
+            MainView.View.imgMap.Source = new BitmapImage(new Uri(gInfo.MapImagePath));//bmpWorkMap;
             MainView.View.lvDetail.ItemsSource = gInfo.DeteilItemInfoList;
             RefreshDetailListView();
         }

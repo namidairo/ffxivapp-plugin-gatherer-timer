@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Windows;
+using System.Windows.Resources;
 using System.IO;
 using System.ComponentModel;
 using System.Collections;
@@ -18,13 +20,14 @@ namespace FFXIVAPP.Plugin.GathererTimer.Manager {
             Dictionary<String, ItemInfo>itemInfoMap = new Dictionary<string, ItemInfo>();
             Dictionary<String, AreaInfo> areaInfoMap = new Dictionary<string, AreaInfo>();
 
-            String gtXMLPath = Path.Combine(Constants.PluginDir, "GathererInfo.xml");
-
+                    
+            //String gtXMLPath = Path.Combine(Constants.PluginDir, "GathererInfo.xml");
+            String resourcePath = "pack://application:,,,/FFXIVAPP.Plugin.GathererTimer;component/Data/GathererInfo.xml";
             try {
                 //NOTE error xml is ignore.
-
+                StreamResourceInfo sri = Application.GetResourceStream(new Uri(resourcePath));
                 XmlDocument doc = new XmlDocument();
-                doc.Load(gtXMLPath);
+                doc.Load(sri.Stream);
 
                 XmlNodeList itemsNodes = doc.SelectNodes("/gathererInfo/items/data");
                 foreach (XmlNode node in itemsNodes) {

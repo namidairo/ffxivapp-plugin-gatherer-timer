@@ -40,13 +40,9 @@ namespace FFXIVAPP.Plugin.GathererTimer.Models {
         }
         public String MapImagePath {
             get {
-                String imageBaseDir = Path.Combine(Constants.PluginDir, "Maps");
                 String mapImageId = (Id.Length < 2 ? "0" : "") + Id;
-                String ret = Path.Combine(imageBaseDir, "map_n" + mapImageId + ".png");
-                if (!File.Exists(ret)) {
-                    ret = Path.Combine(imageBaseDir, "map_error.png");
-                }
-                return ret;
+                String mapImageFileName = "map_n" + mapImageId + ".png";
+                return "pack://application:,,,/FFXIVAPP.Plugin.GathererTimer;component/Data/Maps/" + mapImageFileName;
             }
         }
 

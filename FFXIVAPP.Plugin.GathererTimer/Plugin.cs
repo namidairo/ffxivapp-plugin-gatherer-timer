@@ -133,10 +133,6 @@ namespace FFXIVAPP.Plugin.GathererTimer
             Copyright = AssemblyHelper.Copyright;
             Version = AssemblyHelper.Version.ToString();
             Notice = "";
-
-            String pluginsDirectory = Path.Combine(Directory.GetCurrentDirectory(), "Plugins");
-            String gtPluginDirectory = Path.Combine(pluginsDirectory, "FFXIVAPP.Plugin.GathererTimer");
-            Constants.PluginDir = gtPluginDirectory;
         }
 
 

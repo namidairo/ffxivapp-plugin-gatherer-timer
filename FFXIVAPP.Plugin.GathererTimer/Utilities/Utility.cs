@@ -23,18 +23,6 @@ namespace FFXIVAPP.Plugin.GathererTimer.Utilities {
             return ret;
         }
 
-        public static BitmapImage CreateBitmapImageFromFile(String path) {
-            BitmapImage bmpImage = new BitmapImage();
-            FileStream stream = File.OpenRead(path);
-            bmpImage.BeginInit();
-            bmpImage.CacheOption = BitmapCacheOption.OnLoad;
-            bmpImage.StreamSource = stream;
-            bmpImage.EndInit();
-            stream.Close();
-
-            return bmpImage;
-        }
-
         public static DateTime LocalTimeToEorzeaTime(DateTime dtBase) {
             long epochTicks = dtBase.ToUniversalTime().Ticks - BASE_EPOCH.Ticks;
             long eorzeaTicks = (long)Math.Round(epochTicks * Constants.ETLT_RATE);
