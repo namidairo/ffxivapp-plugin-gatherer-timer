@@ -1,7 +1,7 @@
 {
     "PluginInfo": {
         "Name": "FFXIVAPP.Plugin.GathererTimer",
-        "Version": "1.0.5524.21527",
+        "Version": "1.0.5534.1550",
         "Files": [
             {
                 "Name": "FFXIVAPP.Plugin.GathererTimer.dll",

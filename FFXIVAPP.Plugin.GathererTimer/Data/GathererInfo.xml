@@ -628,6 +628,28 @@
 			<needGain>0</needGain>
 			<needQuality>320</needQuality>
 		</data>
+		<data>
+			<id>57</id>
+			<idInGame>4f35e33ae4d</idInGame>
+			<jp>グレガリアスワーム</jp>
+			<en>Gregarious Worm</en>
+			<fr>Ver grégaire</fr>
+			<de>Herdenwurm</de>
+			<icon>icon_57.png</icon>
+			<needGain>353</needGain>
+			<needQuality>332</needQuality>
+		</data>
+		<data>
+			<id>58</id>
+			<idInGame>f695d78b10c</idInGame>
+			<jp>マズラヤの野草</jp>
+			<en>Mazlaya Greens</en>
+			<fr>Herbes de Mazlaya</fr>
+			<de>Mazlaya-Sprossen</de>
+			<icon>icon_58.png</icon>
+			<needGain>353</needGain>
+			<needQuality>332</needQuality>
+		</data>
 	</items>
 	<areas>
 		<data>
@@ -1947,7 +1969,7 @@
 			<locationY>24</locationY>
 			<note />
 			<detail>
-				<data />
+				<data>57</data>
 				<data />
 				<data />
 				<data />
@@ -2080,7 +2102,7 @@
 			<note />
 			<detail>
 				<data />
-				<data />
+				<data>58</data>
 				<data />
 				<data />
 				<data />
