@@ -1453,6 +1453,28 @@
 	</areas>
 	<gathering>
 		<data>
+			<id>0</id>
+			<timeFrom>1:00</timeFrom>
+			<timeTo>4:00</timeTo>
+			<type>1</type>
+			<title />
+			<mapId>39</mapId>
+			<locationX>21</locationX>
+			<locationY>26</locationY>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data>32</data>
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<representative>4</representative>
+		</data>
+		<data>
 			<id>1</id>
 			<timeFrom>1:00</timeFrom>
 			<timeTo>4:00</timeTo>
