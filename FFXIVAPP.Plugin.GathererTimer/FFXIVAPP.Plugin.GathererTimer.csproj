@@ -119,7 +119,9 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Defaults\Settings.xml" />
-    <Resource Include="Data\GathererInfo.xml" />
+    <Resource Include="Data\GathererInfo.xml">
+      <SubType>Designer</SubType>
+    </Resource>
     <Resource Include="Data\Icons\icon_00.png" />
     <Resource Include="Data\Icons\icon_01.png" />
     <Resource Include="Data\Icons\icon_02.png" />
@@ -221,6 +223,8 @@
     <Resource Include="Data\Maps\map_n39.png" />
     <Resource Include="Data\Maps\map_n40.png" />
     <Resource Include="Data\Maps\map_n41.png" />
+    <Resource Include="Data\Icons\icon_57.png" />
+    <Resource Include="Data\Icons\icon_58.png" />
     <Content Include="PluginInfo.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
