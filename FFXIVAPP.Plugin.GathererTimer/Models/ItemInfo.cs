@@ -18,6 +18,7 @@ namespace FFXIVAPP.Plugin.GathererTimer.Models {
         public int NeedGain { get; set; }
         public int NeedQuality { get; set; }
         public String IconFileName { get; set; }
+        public Boolean IsHidden { get; set; }
 
         // by calc
 
@@ -54,6 +55,9 @@ namespace FFXIVAPP.Plugin.GathererTimer.Models {
                     if (!"".Equals(addText)) {
                         ret += " [" + addText + "]";
                     }
+                }
+                if (IsHidden) {
+                    ret = PluginViewModel.Instance.Locale["text_hidden"] + ": " + ret;
                 }
                 return ret;
 

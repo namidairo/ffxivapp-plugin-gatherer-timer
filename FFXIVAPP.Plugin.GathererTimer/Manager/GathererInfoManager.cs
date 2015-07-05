@@ -83,6 +83,21 @@ namespace FFXIVAPP.Plugin.GathererTimer.Manager {
                         }
                         gInfo.DeteilItemInfoList.Add(info);
                     }
+
+                    //for Hidden items
+                    XmlNodeList hiddenItemsNode = node.SelectNodes("hiddens/data");
+                    foreach (XmlNode hiddenItemNode in hiddenItemsNode) {
+                        ItemInfo info = null;
+                        String itemId = hiddenItemNode.InnerText;
+                        if (!String.IsNullOrWhiteSpace(itemId) && itemInfoMap.ContainsKey(itemId)) {
+                            info = itemInfoMap[itemId];
+                            info.IsHidden = true;
+                            if (null != info) {
+                                gInfo.DeteilItemInfoList.Add(info);
+                            }
+                        }
+                    }
+
                     gInfo.IsAlarm = alarmTargetIDList.Contains(gInfo.Id);
                     gInfo.DefaultIndex = sortIndex;
                     gInfo.SortIndex = sortIndex;

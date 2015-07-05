@@ -1079,6 +1079,94 @@
 			<needGain>0</needGain>
 			<needQuality>0</needQuality>
 		</data>
+		<data>
+			<id>98</id>
+			<idInGame>8417fe25770</idInGame>
+			<jp>クラリーセージ</jp>
+			<en>Clary Sage</en>
+			<fr>Sauge sclarée</fr>
+			<de>Muskatellersalbei</de>
+			<icon>icon_98.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>99</id>
+			<idInGame>ef778de9100</idInGame>
+			<jp>スペアミント</jp>
+			<en>Furymint</en>
+			<fr>Menthe douce</fr>
+			<de>Furienminze</de>
+			<icon>icon_99.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>100</id>
+			<idInGame>d6409d34015</idInGame>
+			<jp>ピートモス</jp>
+			<en>Peat Moss</en>
+			<fr>Tourbe</fr>
+			<de>Torfmoos</de>
+			<icon>icon_100.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>101</id>
+			<idInGame>b21fb0eeefa</idInGame>
+			<jp>レイディアントファイアグラベル</jp>
+			<en>Radiant Fire Moraine</en>
+			<fr>Granulat de feu flamboyant</fr>
+			<de>Strahlender Feuerkies</de>
+			<icon>icon_101.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>102</id>
+			<idInGame>981f7c4c83c</idInGame>
+			<jp>レイディアントライトニンググラベル</jp>
+			<en>Radiant Lightning Moraine</en>
+			<fr>Granulat de foudre flamboyant</fr>
+			<de>Strahlender Blitzkies</de>
+			<icon>icon_102.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>103</id>
+			<idInGame>884fbb2e1a3</idInGame>
+			<jp>強火性岩</jp>
+			<en>Bright Fire Rock</en>
+			<fr>Pierre de feu intense</fr>
+			<de>Leuchtender Feuergesteinsbrocken</de>
+			<icon>icon_103.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>104</id>
+			<idInGame>a4335b495d2</idInGame>
+			<jp>強雷性岩</jp>
+			<en>Bright Lightning Rock</en>
+			<fr>Pierre de foudre intense</fr>
+			<de>Leuchtender Blitzgesteinsbrocken</de>
+			<icon>icon_104.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>105</id>
+			<idInGame>787a1bb251e</idInGame>
+			<jp>黒土</jp>
+			<en>Black Soil</en>
+			<fr>Terreau noir</fr>
+			<de>Schwarze Erde</de>
+			<icon>icon_105.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
 	</items>
 	<areas>
 		<data>
@@ -1938,15 +2026,20 @@
 			<hidden_note>3.0</hidden_note>
 			<note />
 			<detail>
-				<data>63</data>
+				<data />
 				<data>69</data>
-				<data>63</data>
-				<data>63</data>
-				<data>63</data>
-				<data>63</data>
-				<data>63</data>
-				<data>63</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
 			</detail>
+			<hiddens>
+				<data>63</data>
+				<data />
+				<data />
+			</hiddens>
 			<representative>2</representative>
 			<area>クルザス</area>
 		</data>
@@ -1974,6 +2067,11 @@
 				<data>67</data>
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>3</representative>
 			<area>ドラヴァニア</area>
 		</data>
@@ -2001,6 +2099,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>1</representative>
 			<area>アバラシア</area>
 		</data>
@@ -2025,9 +2128,14 @@
 				<data />
 				<data />
 				<data />
-				<data />
 				<data>88</data>
+				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>2</representative>
 			<area>ドラヴァニア</area>
 		</data>
@@ -2049,12 +2157,17 @@
 				<data />
 				<data />
 				<data />
-				<data />
+				<data>44</data>
 				<data />
 				<data>77</data>
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data>98</data>
+				<data>99</data>
+				<data />
+			</hiddens>
 			<representative>6</representative>
 			<area>クルザス</area>
 		</data>
@@ -2082,6 +2195,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>4</representative>
 			<area>黒衣森</area>
 		</data>
@@ -2109,6 +2227,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>3</representative>
 			<area>クルザス</area>
 		</data>
@@ -2136,6 +2259,11 @@
 				<data>45</data>
 				<data>21</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>3</representative>
 			<area>モードゥナ</area>
 		</data>
@@ -2163,6 +2291,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>1</representative>
 			<area>ラノシア</area>
 		</data>
@@ -2190,6 +2323,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
 			<area>黒衣森</area>
 		</data>
@@ -2217,6 +2355,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
 			<area>黒衣森</area>
 		</data>
@@ -2244,6 +2387,11 @@
 				<data>20</data>
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>7</representative>
 			<area>ザナラーン</area>
 		</data>
@@ -2262,15 +2410,20 @@
 			<hidden_note>3.0</hidden_note>
 			<note />
 			<detail>
-				<data>63</data>
+				<data />
 				<data>60</data>
-				<data>63</data>
-				<data>63</data>
-				<data>63</data>
-				<data>63</data>
-				<data>63</data>
-				<data>63</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
 			</detail>
+			<hiddens>
+				<data>63</data>
+				<data />
+				<data />
+			</hiddens>
 			<representative>2</representative>
 			<area>ドラヴァニア</area>
 		</data>
@@ -2298,6 +2451,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>4</representative>
 			<area>ドラヴァニア</area>
 		</data>
@@ -2325,6 +2483,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>2</representative>
 			<area>ドラヴァニア</area>
 		</data>
@@ -2352,6 +2515,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>4</representative>
 			<area>黒衣森</area>
 		</data>
@@ -2379,6 +2547,11 @@
 				<data>15</data>
 				<data>16</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>8</representative>
 			<area>ザナラーン</area>
 		</data>
@@ -2406,6 +2579,11 @@
 				<data>14</data>
 				<data>13</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>8</representative>
 			<area>ザナラーン</area>
 		</data>
@@ -2433,6 +2611,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
 			<area>ラノシア</area>
 		</data>
@@ -2460,6 +2643,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
 			<area>ザナラーン</area>
 		</data>
@@ -2480,14 +2668,51 @@
 			<detail>
 				<data />
 				<data />
-				<data />
+				<data>42</data>
 				<data />
 				<data />
 				<data />
 				<data>85</data>
 				<data />
 			</detail>
+			<hiddens>
+				<data>103</data>
+				<data>101</data>
+				<data />
+			</hiddens>
 			<representative>7</representative>
+			<area>ドラヴァニア</area>
+		</data>
+		<data>
+			<id>86</id>
+			<timeFrom>4:00</timeFrom>
+			<timeTo>8:00</timeTo>
+			<timeLimit>4</timeLimit>
+			<type>1</type>
+			<lv>60</lv>
+			<ptype>刻限</ptype>
+			<title />
+			<mapId>116</mapId>
+			<locationX>12</locationX>
+			<locationY>19</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>45</data>
+				<data>95</data>
+			</detail>
+			<hiddens>
+				<data>105</data>
+				<data>100</data>
+				<data />
+			</hiddens>
+			<representative>8</representative>
 			<area>ドラヴァニア</area>
 		</data>
 		<data>
@@ -2514,6 +2739,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>2</representative>
 			<area>ラノシア</area>
 		</data>
@@ -2541,6 +2771,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>1</representative>
 			<area>黒衣森</area>
 		</data>
@@ -2568,6 +2803,11 @@
 				<data />
 				<data>53</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>8</representative>
 			<area>ザナラーン</area>
 		</data>
@@ -2595,6 +2835,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>2</representative>
 			<area>ザナラーン</area>
 		</data>
@@ -2622,6 +2867,11 @@
 				<data>45</data>
 				<data>21</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>3</representative>
 			<area>モードゥナ</area>
 		</data>
@@ -2649,6 +2899,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>4</representative>
 			<area>クルザス</area>
 		</data>
@@ -2676,6 +2931,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
 			<area>ドラヴァニア</area>
 		</data>
@@ -2703,6 +2963,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>2</representative>
 			<area>アバラシア</area>
 		</data>
@@ -2730,6 +2995,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
 			<area>ラノシア</area>
 		</data>
@@ -2757,6 +3027,11 @@
 				<data>19</data>
 				<data>52</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>8</representative>
 			<area>黒衣森</area>
 		</data>
@@ -2784,6 +3059,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
 			<area>黒衣森</area>
 		</data>
@@ -2811,6 +3091,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
 			<area>ラノシア</area>
 		</data>
@@ -2838,6 +3123,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
 			<area>クルザス</area>
 		</data>
@@ -2865,6 +3155,11 @@
 				<data>86</data>
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>7</representative>
 			<area>ドラヴァニア</area>
 		</data>
@@ -2892,6 +3187,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>2</representative>
 			<area>アバラシア</area>
 		</data>
@@ -2910,17 +3210,54 @@
 			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
-				<data>33</data>
-				<data>33</data>
-				<data>33</data>
-				<data>33</data>
-				<data>33</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
 				<data>1</data>
-				<data>33</data>
-				<data>33</data>
+				<data />
+				<data />
 			</detail>
+			<hiddens>
+				<data>33</data>
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
 			<area>ラノシア</area>
+		</data>
+		<data>
+			<id>87</id>
+			<timeFrom>8:00</timeFrom>
+			<timeTo>12:00</timeTo>
+			<timeLimit>4</timeLimit>
+			<type>0</type>
+			<lv>60</lv>
+			<ptype>刻限</ptype>
+			<title />
+			<mapId>116</mapId>
+			<locationX>25</locationX>
+			<locationY>24</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data>42</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>85</data>
+				<data />
+			</detail>
+			<hiddens>
+				<data>103</data>
+				<data>101</data>
+				<data />
+			</hiddens>
+			<representative>7</representative>
+			<area>ドラヴァニア</area>
 		</data>
 		<data>
 			<id>68</id>
@@ -2943,9 +3280,14 @@
 				<data />
 				<data />
 				<data />
-				<data />
+				<data>45</data>
 				<data>95</data>
 			</detail>
+			<hiddens>
+				<data>105</data>
+				<data>100</data>
+				<data />
+			</hiddens>
 			<representative>8</representative>
 			<area>ドラヴァニア</area>
 		</data>
@@ -2973,6 +3315,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>2</representative>
 			<area>ラノシア</area>
 		</data>
@@ -3000,6 +3347,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>4</representative>
 			<area>ラノシア</area>
 		</data>
@@ -3027,6 +3379,11 @@
 				<data>49</data>
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
 			<area>ザナラーン</area>
 		</data>
@@ -3054,6 +3411,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
 			<area>クルザス</area>
 		</data>
@@ -3081,6 +3443,11 @@
 				<data>45</data>
 				<data>21</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>3</representative>
 			<area>モードゥナ</area>
 		</data>
@@ -3108,6 +3475,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
 			<area>クルザス</area>
 		</data>
@@ -3135,6 +3507,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
 			<area>黒衣森</area>
 		</data>
@@ -3162,6 +3539,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>2</representative>
 			<area>ドラヴァニア</area>
 		</data>
@@ -3189,6 +3571,11 @@
 				<data>61</data>
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>1</representative>
 			<area>クルザス</area>
 		</data>
@@ -3216,6 +3603,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>2</representative>
 			<area>アバラシア</area>
 		</data>
@@ -3243,6 +3635,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
 			<area>アバラシア</area>
 		</data>
@@ -3261,15 +3658,20 @@
 			<hidden_note>3.0</hidden_note>
 			<note />
 			<detail>
-				<data>63</data>
+				<data />
 				<data>69</data>
-				<data>63</data>
-				<data>63</data>
-				<data>63</data>
-				<data>63</data>
-				<data>63</data>
-				<data>63</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
 			</detail>
+			<hiddens>
+				<data>63</data>
+				<data />
+				<data />
+			</hiddens>
 			<representative>2</representative>
 			<area>クルザス</area>
 		</data>
@@ -3297,6 +3699,11 @@
 				<data>67</data>
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>3</representative>
 			<area>ドラヴァニア</area>
 		</data>
@@ -3324,6 +3731,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>1</representative>
 			<area>アバラシア</area>
 		</data>
@@ -3348,9 +3760,14 @@
 				<data />
 				<data />
 				<data />
-				<data />
 				<data>88</data>
+				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>2</representative>
 			<area>ドラヴァニア</area>
 		</data>
@@ -3371,13 +3788,18 @@
 			<detail>
 				<data />
 				<data />
-				<data />
+				<data>42</data>
 				<data />
 				<data />
 				<data />
 				<data>85</data>
 				<data />
 			</detail>
+			<hiddens>
+				<data>103</data>
+				<data>101</data>
+				<data />
+			</hiddens>
 			<representative>7</representative>
 			<area>ドラヴァニア</area>
 		</data>
@@ -3405,6 +3827,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>3</representative>
 			<area>ラノシア</area>
 		</data>
@@ -3432,6 +3859,11 @@
 				<data />
 				<data>39</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>8</representative>
 			<area>クルザス</area>
 		</data>
@@ -3459,6 +3891,11 @@
 				<data>3</data>
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>7</representative>
 			<area>ザナラーン</area>
 		</data>
@@ -3486,6 +3923,11 @@
 				<data>45</data>
 				<data>21</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>3</representative>
 			<area>モードゥナ</area>
 		</data>
@@ -3504,15 +3946,20 @@
 			<hidden_note>3.0</hidden_note>
 			<note />
 			<detail>
-				<data>63</data>
+				<data />
 				<data>60</data>
-				<data>63</data>
-				<data>63</data>
-				<data>63</data>
-				<data>63</data>
-				<data>63</data>
-				<data>63</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
 			</detail>
+			<hiddens>
+				<data>63</data>
+				<data />
+				<data />
+			</hiddens>
 			<representative>2</representative>
 			<area>ドラヴァニア</area>
 		</data>
@@ -3540,6 +3987,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>4</representative>
 			<area>ドラヴァニア</area>
 		</data>
@@ -3567,6 +4019,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>2</representative>
 			<area>ドラヴァニア</area>
 		</data>
@@ -3586,7 +4043,7 @@
 			<note />
 			<detail>
 				<data />
-				<data />
+				<data>46</data>
 				<data />
 				<data>89</data>
 				<data />
@@ -3594,6 +4051,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data>104</data>
+				<data>102</data>
+				<data />
+			</hiddens>
 			<representative>4</representative>
 			<area>アバラシア</area>
 		</data>
@@ -3618,9 +4080,14 @@
 				<data />
 				<data />
 				<data />
-				<data />
+				<data>45</data>
 				<data>95</data>
 			</detail>
+			<hiddens>
+				<data>105</data>
+				<data>100</data>
+				<data />
+			</hiddens>
 			<representative>8</representative>
 			<area>ドラヴァニア</area>
 		</data>
@@ -3648,6 +4115,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>1</representative>
 			<area>ラノシア</area>
 		</data>
@@ -3675,6 +4147,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>2</representative>
 			<area>クルザス</area>
 		</data>
@@ -3702,6 +4179,11 @@
 				<data>45</data>
 				<data>21</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>3</representative>
 			<area>モードゥナ</area>
 		</data>
@@ -3729,6 +4211,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>1</representative>
 			<area>黒衣森</area>
 		</data>
@@ -3756,6 +4243,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
 			<area>ザナラーン</area>
 		</data>
@@ -3783,6 +4275,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>3</representative>
 			<area>クルザス</area>
 		</data>
@@ -3810,6 +4307,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>1</representative>
 			<area>ドラヴァニア</area>
 		</data>
@@ -3837,6 +4339,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>2</representative>
 			<area>アバラシア</area>
 		</data>
@@ -3864,6 +4371,11 @@
 				<data>12</data>
 				<data>17</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>7</representative>
 			<area>ラノシア</area>
 		</data>
@@ -3891,6 +4403,11 @@
 				<data />
 				<data>51</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>8</representative>
 			<area>ラノシア</area>
 		</data>
@@ -3918,6 +4435,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>3</representative>
 			<area>クルザス</area>
 		</data>
@@ -3945,6 +4467,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>2</representative>
 			<area>ドラヴァニア</area>
 		</data>
@@ -3972,6 +4499,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>5</representative>
 			<area>アバラシア</area>
 		</data>
@@ -3991,7 +4523,7 @@
 			<note />
 			<detail>
 				<data />
-				<data />
+				<data>46</data>
 				<data />
 				<data>89</data>
 				<data />
@@ -3999,6 +4531,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data>104</data>
+				<data>102</data>
+				<data />
+			</hiddens>
 			<representative>4</representative>
 			<area>クルザス</area>
 		</data>
@@ -4020,12 +4557,17 @@
 				<data />
 				<data />
 				<data />
-				<data />
+				<data>44</data>
 				<data />
 				<data>77</data>
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data>98</data>
+				<data>99</data>
+				<data />
+			</hiddens>
 			<representative>6</representative>
 			<area>アバラシア</area>
 		</data>
@@ -4053,6 +4595,11 @@
 				<data>50</data>
 				<data>38</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>8</representative>
 			<area>黒衣森</area>
 		</data>
@@ -4080,6 +4627,11 @@
 				<data>18</data>
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>7</representative>
 			<area>クルザス</area>
 		</data>
@@ -4107,6 +4659,11 @@
 				<data>45</data>
 				<data>21</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>3</representative>
 			<area>モードゥナ</area>
 		</data>
@@ -4134,6 +4691,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
 			<area>クルザス</area>
 		</data>
@@ -4161,6 +4723,11 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>2</representative>
 			<area>ドラヴァニア</area>
 		</data>
@@ -4188,8 +4755,77 @@
 				<data>61</data>
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>1</representative>
 			<area>クルザス</area>
+		</data>
+		<data>
+			<id>63</id>
+			<timeFrom>22:00</timeFrom>
+			<timeTo>23:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>1</type>
+			<lv>60</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>119</mapId>
+			<locationX>33</locationX>
+			<locationY>23</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data>87</data>
+				<data>75</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>2</representative>
+			<area>アバラシア</area>
+		</data>
+		<data>
+			<id>65</id>
+			<timeFrom>23:00</timeFrom>
+			<timeTo>24:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>0</type>
+			<lv>60</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>120</mapId>
+			<locationX>23</locationX>
+			<locationY>6</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>74</data>
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>6</representative>
+			<area>アバラシア</area>
 		</data>
 	</gathering>
 </gathererInfo>
