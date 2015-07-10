@@ -650,6 +650,523 @@
 			<needGain>353</needGain>
 			<needQuality>332</needQuality>
 		</data>
+		<data>
+			<id>59</id>
+			<idInGame>d5b372811f5</idInGame>
+			<jp>イエロークォーツ</jp>
+			<en>Yellow Quartz</en>
+			<fr>Quartz jaune</fr>
+			<de>Gelber Quarz</de>
+			<icon>icon_59.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>60</id>
+			<idInGame>444ad2e89f0</idInGame>
+			<jp>オールドワールドフィグ</jp>
+			<en>Old World Fig</en>
+			<fr>Figue du vieux continent</fr>
+			<de>Sharlayanische Feige</de>
+			<icon>icon_60.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>61</id>
+			<idInGame>9cc8e6b3c04</idInGame>
+			<jp>クルザス茶葉</jp>
+			<en>Coerthan Tea Leaves</en>
+			<fr>Feuilles de thé du Coerthas</fr>
+			<de>Coerthische Teeblätter</de>
+			<icon>icon_61.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>62</id>
+			<idInGame>85982c49b0e</idInGame>
+			<jp>グリーンクォーツ</jp>
+			<en>Green Quartz</en>
+			<fr>Quartz vert</fr>
+			<de>Grüner Quarz</de>
+			<icon>icon_62.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>63</id>
+			<idInGame>51162b17a9b</idInGame>
+			<jp>ダークマタークラスター</jp>
+			<en>Dark Matter Cluster</en>
+			<fr>Agrégat de matière sombre</fr>
+			<de>Dunkelmaterie</de>
+			<icon>icon_63.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>64</id>
+			<idInGame>88a8524e44e</idInGame>
+			<jp>チャイブ</jp>
+			<en>Chives</en>
+			<fr>Ciboulette</fr>
+			<de>Schnittlauch</de>
+			<icon>icon_64.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>65</id>
+			<idInGame>41e7d3b5a18</idInGame>
+			<jp>ドラヴァニアミスルトゥ</jp>
+			<en>Dravanian Mistletoe</en>
+			<fr>Gui de Dravania</fr>
+			<de>Dravanischer Mistelzweig</de>
+			<icon>icon_65.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>66</id>
+			<idInGame>bc1bbfdfa38</idInGame>
+			<jp>プチキャベツ</jp>
+			<en>Pearl Sprouts</en>
+			<fr>Chou-bourgeon</fr>
+			<de>Kohlsprösschen</de>
+			<icon>icon_66.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>67</id>
+			<idInGame>f3cca8fe754</idInGame>
+			<jp>ポルチーニ</jp>
+			<en>Porcini</en>
+			<fr>Bolet</fr>
+			<de>Porcini-Pilz</de>
+			<icon>icon_67.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>68</id>
+			<idInGame>df1336c9b63</idInGame>
+			<jp>黄鉄鉱</jp>
+			<en>Pyrite</en>
+			<fr>Minerai de pyrite</fr>
+			<de>Schwefelkies</de>
+			<icon>icon_68.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>69</id>
+			<idInGame>4866f144401</idInGame>
+			<jp>黄銅鉱</jp>
+			<en>Yellow Copper Ore</en>
+			<fr>Minerai de cuivre jaune</fr>
+			<de>Kupferkies</de>
+			<icon>icon_69.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>70</id>
+			<idInGame>8d6c4dec9d0</idInGame>
+			<jp>褐鉄鉱</jp>
+			<en>Limonite</en>
+			<fr>Minerai de limonite</fr>
+			<de>Brauneisenstein</de>
+			<icon>icon_70.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>71</id>
+			<idInGame>ebd52899e2d</idInGame>
+			<jp>輝銅鉱</jp>
+			<en>Chalcocite</en>
+			<fr>Minerai de chalcocite</fr>
+			<de>Chalkosin</de>
+			<icon>icon_71.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>72</id>
+			<idInGame>da52f71fcc6</idInGame>
+			<jp>アストラルグラベル</jp>
+			<en>Astral Moraine</en>
+			<fr>Granulat astral</fr>
+			<de>Lichtkies</de>
+			<icon>icon_72.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>73</id>
+			<idInGame>591ad1f9679</idInGame>
+			<jp>アストラルフラワー</jp>
+			<en>Seventh Heaven</en>
+			<fr>Fleur astrale</fr>
+			<de>Siebter Himmel-Blume</de>
+			<icon>icon_73.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>74</id>
+			<idInGame>7cbf88217f9</idInGame>
+			<jp>アダマン鉱</jp>
+			<en>Adamantite Ore</en>
+			<fr>Minerai d&apos;adamant</fr>
+			<de>Adamantium-Erz</de>
+			<icon>icon_74.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>75</id>
+			<idInGame>6f6975ca491</idInGame>
+			<jp>アバラシアミスルトゥ</jp>
+			<en>Abalathian Mistletoe</en>
+			<fr>Gui d&apos;Abalathia</fr>
+			<de>Abalathischer Mistelzweig</de>
+			<icon>icon_75.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>76</id>
+			<idInGame>595ace94c19</idInGame>
+			<jp>アバラシア岩塩</jp>
+			<en>Abalathian Rock Salt</en>
+			<fr>Sel gemme d&apos;Abalathia</fr>
+			<de>Abalathisches Steinsalz</de>
+			<icon>icon_76.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>77</id>
+			<idInGame>026539a9c78</idInGame>
+			<jp>オレガノ</jp>
+			<en>Highland Oregano</en>
+			<fr>Origan</fr>
+			<de>Hochland-Oregano</de>
+			<icon>icon_77.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>78</id>
+			<idInGame>772f22b8708</idInGame>
+			<jp>カベイジの野菜</jp>
+			<en>Chysahl Greens</en>
+			<fr>Légumes cabus</fr>
+			<de>Kohlkraut</de>
+			<icon>icon_78.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>79</id>
+			<idInGame>a783e1c1b4c</idInGame>
+			<jp>クラウドバナナ</jp>
+			<en>Cloud Banana</en>
+			<fr>Banane céleste</fr>
+			<de>Wolkenbanane</de>
+			<icon>icon_79.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>80</id>
+			<idInGame>043110080f8</idInGame>
+			<jp>スイートアーモンド</jp>
+			<en>Honeydew Almonds</en>
+			<fr>Amandes mielleuses</fr>
+			<de>Honigmandeln</de>
+			<icon>icon_80.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>81</id>
+			<idInGame>d6f25974723</idInGame>
+			<jp>スナーブルベリー</jp>
+			<en>Snurbleberry</en>
+			<fr>Lainuchairelle</fr>
+			<de>Flockenbeere</de>
+			<icon>icon_81.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>82</id>
+			<idInGame>c8866808ca2</idInGame>
+			<jp>ドラヴァニアパプリカ</jp>
+			<en>Dravanian Paprika</en>
+			<fr>Paprika dravanien</fr>
+			<de>Dravanische Paprikaschote</de>
+			<icon>icon_82.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>83</id>
+			<idInGame>4cc380ef016</idInGame>
+			<jp>バイオレットクォーツ</jp>
+			<en>Violet Quartz</en>
+			<fr>Quartz violet</fr>
+			<de>Violetter Quarz</de>
+			<icon>icon_83.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>84</id>
+			<idInGame>c02e66754a3</idInGame>
+			<jp>バニラビーンズ</jp>
+			<en>Vanilla Beans</en>
+			<fr>Gousse de vanille</fr>
+			<de>Vanille</de>
+			<icon>icon_84.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>85</id>
+			<idInGame>cfd0873f642</idInGame>
+			<jp>ファイアグラベル</jp>
+			<en>Fire Moraine</en>
+			<fr>Granulat de feu</fr>
+			<de>Feuerkies</de>
+			<icon>icon_85.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>86</id>
+			<idInGame>5530b3734f7</idInGame>
+			<jp>ブルークォーツ</jp>
+			<en>Blue Quartz</en>
+			<fr>Quartz bleu</fr>
+			<de>Blauer Quarz</de>
+			<icon>icon_86.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>87</id>
+			<idInGame>c847f25f224</idInGame>
+			<jp>ヘヴンズドレモン</jp>
+			<en>Heavens Lemon</en>
+			<fr>Citron céleste</fr>
+			<de>Himmelszitrone</de>
+			<icon>icon_87.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>88</id>
+			<idInGame>069082a65e5</idInGame>
+			<jp>モリーユ</jp>
+			<en>Morel</en>
+			<fr>Morille</fr>
+			<de>Mörchel</de>
+			<icon>icon_88.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>89</id>
+			<idInGame>4c115a62e3c</idInGame>
+			<jp>ライトニンググラベル</jp>
+			<en>Lightning Moraine</en>
+			<fr>Granulat de foudre</fr>
+			<de>Blitzkies</de>
+			<icon>icon_89.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>90</id>
+			<idInGame>0c99ee9bf0b</idInGame>
+			<jp>レッドアルメン</jp>
+			<en>Red Alumen</en>
+			<fr>Alun rouge</fr>
+			<de>Rotalaune</de>
+			<icon>icon_90.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>91</id>
+			<idInGame>60c1744ff88</idInGame>
+			<jp>レッドクォーツ</jp>
+			<en>Red Quartz</en>
+			<fr>Quartz rouge</fr>
+			<de>Roter Quarz</de>
+			<icon>icon_91.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>92</id>
+			<idInGame>74a45e46d83</idInGame>
+			<jp>ワットル樹皮</jp>
+			<en>Wattle Bark</en>
+			<fr>Écorce d&apos;acacia </fr>
+			<de>Akazienrinde</de>
+			<icon>icon_92.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>93</id>
+			<idInGame>c1ce1190462</idInGame>
+			<jp>金雲母</jp>
+			<en>Sun Mica</en>
+			<fr>Mica doré</fr>
+			<de>Sonnenglimmer</de>
+			<icon>icon_93.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>94</id>
+			<idInGame>a123bde6009</idInGame>
+			<jp>皇金鉱</jp>
+			<en>Aurum Regis Ore</en>
+			<fr>Minerai d&apos;aurum regis</fr>
+			<de>Königsgold-Erz</de>
+			<icon>icon_94.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>95</id>
+			<idInGame>32c9183e261</idInGame>
+			<jp>赤玉土</jp>
+			<en>Granular Clay</en>
+			<fr>Argile granuleuse</fr>
+			<de>Körniger Lehm</de>
+			<icon>icon_95.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>96</id>
+			<idInGame>84dbe54790e</idInGame>
+			<jp>赤鉄鉱</jp>
+			<en>Light Kidney Ore</en>
+			<fr>Minerai d&apos;hématite</fr>
+			<de>Hämatit</de>
+			<icon>icon_96.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>97</id>
+			<idInGame>4bd8322b150</idInGame>
+			<jp>赤銅鉱</jp>
+			<en>Cuprite</en>
+			<fr>Minerai de cuprite</fr>
+			<de>Cuprit</de>
+			<icon>icon_97.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>98</id>
+			<idInGame>8417fe25770</idInGame>
+			<jp>クラリーセージ</jp>
+			<en>Clary Sage</en>
+			<fr>Sauge sclarée</fr>
+			<de>Muskatellersalbei</de>
+			<icon>icon_98.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>99</id>
+			<idInGame>ef778de9100</idInGame>
+			<jp>スペアミント</jp>
+			<en>Furymint</en>
+			<fr>Menthe douce</fr>
+			<de>Furienminze</de>
+			<icon>icon_99.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>100</id>
+			<idInGame>d6409d34015</idInGame>
+			<jp>ピートモス</jp>
+			<en>Peat Moss</en>
+			<fr>Tourbe</fr>
+			<de>Torfmoos</de>
+			<icon>icon_100.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>101</id>
+			<idInGame>b21fb0eeefa</idInGame>
+			<jp>レイディアントファイアグラベル</jp>
+			<en>Radiant Fire Moraine</en>
+			<fr>Granulat de feu flamboyant</fr>
+			<de>Strahlender Feuerkies</de>
+			<icon>icon_101.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>102</id>
+			<idInGame>981f7c4c83c</idInGame>
+			<jp>レイディアントライトニンググラベル</jp>
+			<en>Radiant Lightning Moraine</en>
+			<fr>Granulat de foudre flamboyant</fr>
+			<de>Strahlender Blitzkies</de>
+			<icon>icon_102.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>103</id>
+			<idInGame>884fbb2e1a3</idInGame>
+			<jp>強火性岩</jp>
+			<en>Bright Fire Rock</en>
+			<fr>Pierre de feu intense</fr>
+			<de>Leuchtender Feuergesteinsbrocken</de>
+			<icon>icon_103.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>104</id>
+			<idInGame>a4335b495d2</idInGame>
+			<jp>強雷性岩</jp>
+			<en>Bright Lightning Rock</en>
+			<fr>Pierre de foudre intense</fr>
+			<de>Leuchtender Blitzgesteinsbrocken</de>
+			<icon>icon_104.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
+		<data>
+			<id>105</id>
+			<idInGame>787a1bb251e</idInGame>
+			<jp>黒土</jp>
+			<en>Black Soil</en>
+			<fr>Terreau noir</fr>
+			<de>Schwarze Erde</de>
+			<icon>icon_105.png</icon>
+			<needGain>0</needGain>
+			<needQuality>0</needQuality>
+		</data>
 	</items>
 	<areas>
 		<data>
@@ -1450,17 +1967,223 @@
 			<fr>Monde des Ténèbres</fr>
 			<de>Welt der Dunkelheit</de>
 		</data>
+		<data>
+			<id>115</id>
+			<jp>高地ドラヴァニア</jp>
+			<en>The Dravanian Forelands</en>
+			<fr>Avant-pays dravanien</fr>
+			<de>Dravanisches Vorland</de>
+		</data>
+		<data>
+			<id>116</id>
+			<jp>低地ドラヴァニア</jp>
+			<en>The Dravanian Hinterlands</en>
+			<fr>Arrière-pays dravanien</fr>
+			<de>Dravanisches Hinterland</de>
+		</data>
+		<data>
+			<id>117</id>
+			<jp>クルザス西部高地</jp>
+			<en>Coerthas Western Highlands</en>
+			<fr>Hautes terres du Coerthas occidental</fr>
+			<de>Westliches Hochland von Coerthas</de>
+		</data>
+		<data>
+			<id>118</id>
+			<jp>ドラヴァニア雲海</jp>
+			<en>The Churning Mists</en>
+			<fr>L&apos;Écume des cieux de Dravania</fr>
+			<de>Wallende Nebel</de>
+		</data>
+		<data>
+			<id>119</id>
+			<jp>アバラシア雲海</jp>
+			<en>The Sea of Clouds</en>
+			<fr>L&apos;Écume des cieux d&apos;Abalathia</fr>
+			<de>Abalathisches Wolkenmeer</de>
+		</data>
+		<data>
+			<id>120</id>
+			<jp>アジス・ラー</jp>
+			<en>Azys Lla</en>
+			<fr>Azys Lla</fr>
+			<de>Azys Lla</de>
+		</data>
 	</areas>
 	<gathering>
+		<data>
+			<id>48</id>
+			<timeFrom>0:00</timeFrom>
+			<timeTo>1:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>0</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>117</mapId>
+			<locationX>28</locationX>
+			<locationY>22</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data>69</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data>63</data>
+				<data />
+				<data />
+			</hiddens>
+			<representative>2</representative>
+			<area>クルザス</area>
+		</data>
+		<data>
+			<id>50</id>
+			<timeFrom>0:00</timeFrom>
+			<timeTo>1:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>1</type>
+			<lv>55</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>118</mapId>
+			<locationX>26</locationX>
+			<locationY>10</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data>65</data>
+				<data />
+				<data />
+				<data />
+				<data>67</data>
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>3</representative>
+			<area>ドラヴァニア</area>
+		</data>
+		<data>
+			<id>54</id>
+			<timeFrom>0:00</timeFrom>
+			<timeTo>1:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>0</type>
+			<lv>55</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>119</mapId>
+			<locationX>8</locationX>
+			<locationY>9</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data>76</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>91</data>
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>1</representative>
+			<area>アバラシア</area>
+		</data>
+		<data>
+			<id>56</id>
+			<timeFrom>0:00</timeFrom>
+			<timeTo>1:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>1</type>
+			<lv>60</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>116</mapId>
+			<locationX>16</locationX>
+			<locationY>37</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data>79</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>88</data>
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>2</representative>
+			<area>ドラヴァニア</area>
+		</data>
+		<data>
+			<id>66</id>
+			<timeFrom>0:00</timeFrom>
+			<timeTo>4:00</timeTo>
+			<timeLimit>4</timeLimit>
+			<type>1</type>
+			<lv>60</lv>
+			<ptype>刻限</ptype>
+			<title />
+			<mapId>117</mapId>
+			<locationX>10</locationX>
+			<locationY>14</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data>44</data>
+				<data />
+				<data>77</data>
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data>98</data>
+				<data>99</data>
+				<data />
+			</hiddens>
+			<representative>6</representative>
+			<area>クルザス</area>
+		</data>
 		<data>
 			<id>0</id>
 			<timeFrom>1:00</timeFrom>
 			<timeTo>4:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>39</mapId>
 			<locationX>21</locationX>
 			<locationY>26</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -1472,17 +2195,27 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>4</representative>
+			<area>黒衣森</area>
 		</data>
 		<data>
 			<id>1</id>
 			<timeFrom>1:00</timeFrom>
 			<timeTo>4:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>0</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>97</mapId>
 			<locationX>27</locationX>
 			<locationY>19</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -1494,17 +2227,27 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>3</representative>
+			<area>クルザス</area>
 		</data>
 		<data>
 			<id>2</id>
 			<timeFrom>1:00</timeFrom>
 			<timeTo>4:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>107</mapId>
 			<locationX>31</locationX>
 			<locationY>14</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data>48</data>
@@ -1516,17 +2259,27 @@
 				<data>45</data>
 				<data>21</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>3</representative>
+			<area>モードゥナ</area>
 		</data>
 		<data>
 			<id>38</id>
 			<timeFrom>1:00</timeFrom>
 			<timeTo>4:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>0</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>6</mapId>
 			<locationX>15</locationX>
 			<locationY>27</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data>22</data>
@@ -1538,17 +2291,27 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>1</representative>
+			<area>ラノシア</area>
 		</data>
 		<data>
 			<id>3</id>
 			<timeFrom>2:00</timeFrom>
 			<timeTo>5:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>38</mapId>
 			<locationX>15</locationX>
 			<locationY>21</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -1560,17 +2323,27 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
+			<area>黒衣森</area>
 		</data>
 		<data>
 			<id>4</id>
 			<timeFrom>2:00</timeFrom>
 			<timeTo>5:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>40</mapId>
 			<locationX>18</locationX>
 			<locationY>23</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -1582,17 +2355,27 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
+			<area>黒衣森</area>
 		</data>
 		<data>
 			<id>34</id>
 			<timeFrom>2:00</timeFrom>
 			<timeTo>5:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>0</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>70</mapId>
 			<locationX>26</locationX>
 			<locationY>18</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -1604,17 +2387,123 @@
 				<data>20</data>
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>7</representative>
+			<area>ザナラーン</area>
+		</data>
+		<data>
+			<id>42</id>
+			<timeFrom>2:00</timeFrom>
+			<timeTo>3:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>115</mapId>
+			<locationX>26</locationX>
+			<locationY>12</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data>60</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data>63</data>
+				<data />
+				<data />
+			</hiddens>
+			<representative>2</representative>
+			<area>ドラヴァニア</area>
+		</data>
+		<data>
+			<id>52</id>
+			<timeFrom>2:00</timeFrom>
+			<timeTo>3:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>0</type>
+			<lv>55</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>118</mapId>
+			<locationX>34</locationX>
+			<locationY>23</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data>59</data>
+				<data />
+				<data>62</data>
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>4</representative>
+			<area>ドラヴァニア</area>
+		</data>
+		<data>
+			<id>58</id>
+			<timeFrom>2:00</timeFrom>
+			<timeTo>3:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>0</type>
+			<lv>60</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>116</mapId>
+			<locationX>38</locationX>
+			<locationY>30</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data>97</data>
+				<data>96</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>2</representative>
+			<area>ドラヴァニア</area>
 		</data>
 		<data>
 			<id>5</id>
 			<timeFrom>3:00</timeFrom>
 			<timeTo>6:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>41</mapId>
 			<locationX>15</locationX>
 			<locationY>26</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -1626,17 +2515,27 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>4</representative>
+			<area>黒衣森</area>
 		</data>
 		<data>
 			<id>6</id>
 			<timeFrom>3:00</timeFrom>
 			<timeTo>6:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>0</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>72</mapId>
 			<locationX>16</locationX>
 			<locationY>20</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -1648,17 +2547,27 @@
 				<data>15</data>
 				<data>16</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>8</representative>
+			<area>ザナラーン</area>
 		</data>
 		<data>
 			<id>7</id>
 			<timeFrom>4:00</timeFrom>
 			<timeTo>7:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>0</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>69</mapId>
 			<locationX>25</locationX>
 			<locationY>15</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -1670,17 +2579,27 @@
 				<data>14</data>
 				<data>13</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>8</representative>
+			<area>ザナラーン</area>
 		</data>
 		<data>
 			<id>36</id>
 			<timeFrom>4:00</timeFrom>
 			<timeTo>7:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>4</mapId>
 			<locationX>25</locationX>
 			<locationY>25</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -1692,17 +2611,27 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
+			<area>ラノシア</area>
 		</data>
 		<data>
 			<id>37</id>
 			<timeFrom>4:00</timeFrom>
 			<timeTo>7:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>0</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>71</mapId>
 			<locationX>15</locationX>
 			<locationY>12</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -1714,17 +2643,91 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
+			<area>ザナラーン</area>
+		</data>
+		<data>
+			<id>67</id>
+			<timeFrom>4:00</timeFrom>
+			<timeTo>8:00</timeTo>
+			<timeLimit>4</timeLimit>
+			<type>0</type>
+			<lv>60</lv>
+			<ptype>刻限</ptype>
+			<title />
+			<mapId>115</mapId>
+			<locationX>17</locationX>
+			<locationY>27</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data>42</data>
+				<data />
+				<data />
+				<data />
+				<data>85</data>
+				<data />
+			</detail>
+			<hiddens>
+				<data>103</data>
+				<data>101</data>
+				<data />
+			</hiddens>
+			<representative>7</representative>
+			<area>ドラヴァニア</area>
+		</data>
+		<data>
+			<id>86</id>
+			<timeFrom>4:00</timeFrom>
+			<timeTo>8:00</timeTo>
+			<timeLimit>4</timeLimit>
+			<type>1</type>
+			<lv>60</lv>
+			<ptype>刻限</ptype>
+			<title />
+			<mapId>116</mapId>
+			<locationX>12</locationX>
+			<locationY>19</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>45</data>
+				<data>95</data>
+			</detail>
+			<hiddens>
+				<data>105</data>
+				<data>100</data>
+				<data />
+			</hiddens>
+			<representative>8</representative>
+			<area>ドラヴァニア</area>
 		</data>
 		<data>
 			<id>8</id>
 			<timeFrom>5:00</timeFrom>
 			<timeTo>8:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>6</mapId>
 			<locationX>26</locationX>
 			<locationY>32</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data>55</data>
@@ -1736,17 +2739,27 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>2</representative>
+			<area>ラノシア</area>
 		</data>
 		<data>
 			<id>9</id>
 			<timeFrom>5:00</timeFrom>
 			<timeTo>8:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>39</mapId>
 			<locationX>19</locationX>
 			<locationY>17</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data>37</data>
@@ -1758,17 +2771,27 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>1</representative>
+			<area>黒衣森</area>
 		</data>
 		<data>
 			<id>10</id>
 			<timeFrom>5:00</timeFrom>
 			<timeTo>8:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>0</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>68</mapId>
 			<locationX>19</locationX>
 			<locationY>28</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -1780,17 +2803,27 @@
 				<data />
 				<data>53</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>8</representative>
+			<area>ザナラーン</area>
 		</data>
 		<data>
 			<id>11</id>
 			<timeFrom>5:00</timeFrom>
 			<timeTo>8:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>0</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>70</mapId>
 			<locationX>27</locationX>
 			<locationY>22</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -1802,17 +2835,27 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>2</representative>
+			<area>ザナラーン</area>
 		</data>
 		<data>
 			<id>12</id>
 			<timeFrom>5:00</timeFrom>
 			<timeTo>8:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>107</mapId>
 			<locationX>31</locationX>
 			<locationY>14</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data>48</data>
@@ -1824,17 +2867,123 @@
 				<data>45</data>
 				<data>21</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>3</representative>
+			<area>モードゥナ</area>
+		</data>
+		<data>
+			<id>74</id>
+			<timeFrom>5:00</timeFrom>
+			<timeTo>6:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>0</type>
+			<lv>60</lv>
+			<ptype>伝説</ptype>
+			<title />
+			<mapId>117</mapId>
+			<locationX>37</locationX>
+			<locationY>17</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data>72</data>
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>4</representative>
+			<area>クルザス</area>
+		</data>
+		<data>
+			<id>75</id>
+			<timeFrom>5:00</timeFrom>
+			<timeTo>6:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>0</type>
+			<lv>60</lv>
+			<ptype>伝説</ptype>
+			<title />
+			<mapId>118</mapId>
+			<locationX>9</locationX>
+			<locationY>38</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>94</data>
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>6</representative>
+			<area>ドラヴァニア</area>
+		</data>
+		<data>
+			<id>76</id>
+			<timeFrom>5:00</timeFrom>
+			<timeTo>6:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>0</type>
+			<lv>60</lv>
+			<ptype>伝説</ptype>
+			<title />
+			<mapId>119</mapId>
+			<locationX>35</locationX>
+			<locationY>39</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data>93</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>2</representative>
+			<area>アバラシア</area>
 		</data>
 		<data>
 			<id>13</id>
 			<timeFrom>6:00</timeFrom>
 			<timeTo>9:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>5</mapId>
 			<locationX>31</locationX>
 			<locationY>13</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -1846,17 +2995,27 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
+			<area>ラノシア</area>
 		</data>
 		<data>
 			<id>14</id>
 			<timeFrom>6:00</timeFrom>
 			<timeTo>9:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>0</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>40</mapId>
 			<locationX>16</locationX>
 			<locationY>31</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -1868,17 +3027,27 @@
 				<data>19</data>
 				<data>52</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>8</representative>
+			<area>黒衣森</area>
 		</data>
 		<data>
 			<id>35</id>
 			<timeFrom>6:00</timeFrom>
 			<timeTo>9:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>38</mapId>
 			<locationX>30</locationX>
 			<locationY>19</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -1890,17 +3059,27 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
+			<area>黒衣森</area>
 		</data>
 		<data>
 			<id>15</id>
 			<timeFrom>7:00</timeFrom>
 			<timeTo>10:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>8</mapId>
 			<locationX>28</locationX>
 			<locationY>25</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -1912,39 +3091,219 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
+			<area>ラノシア</area>
+		</data>
+		<data>
+			<id>77</id>
+			<timeFrom>7:00</timeFrom>
+			<timeTo>8:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>0</type>
+			<lv>60</lv>
+			<ptype>伝説</ptype>
+			<title />
+			<mapId>117</mapId>
+			<locationX>11</locationX>
+			<locationY>21</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>83</data>
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>6</representative>
+			<area>クルザス</area>
+		</data>
+		<data>
+			<id>78</id>
+			<timeFrom>7:00</timeFrom>
+			<timeTo>8:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>0</type>
+			<lv>60</lv>
+			<ptype>伝説</ptype>
+			<title />
+			<mapId>116</mapId>
+			<locationX>11</locationX>
+			<locationY>16</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>86</data>
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>7</representative>
+			<area>ドラヴァニア</area>
+		</data>
+		<data>
+			<id>79</id>
+			<timeFrom>7:00</timeFrom>
+			<timeTo>8:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>0</type>
+			<lv>60</lv>
+			<ptype>伝説</ptype>
+			<title />
+			<mapId>120</mapId>
+			<locationX>36</locationX>
+			<locationY>15</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data>90</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>2</representative>
+			<area>アバラシア</area>
 		</data>
 		<data>
 			<id>16</id>
 			<timeFrom>8:00</timeFrom>
 			<timeTo>11:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>7</mapId>
 			<locationX>33</locationX>
 			<locationY>27</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
-				<data>33</data>
-				<data>33</data>
-				<data>33</data>
-				<data>33</data>
-				<data>33</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
 				<data>1</data>
-				<data>33</data>
-				<data>33</data>
+				<data />
+				<data />
 			</detail>
+			<hiddens>
+				<data>33</data>
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
+			<area>ラノシア</area>
+		</data>
+		<data>
+			<id>87</id>
+			<timeFrom>8:00</timeFrom>
+			<timeTo>12:00</timeTo>
+			<timeLimit>4</timeLimit>
+			<type>0</type>
+			<lv>60</lv>
+			<ptype>刻限</ptype>
+			<title />
+			<mapId>116</mapId>
+			<locationX>25</locationX>
+			<locationY>24</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data>42</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>85</data>
+				<data />
+			</detail>
+			<hiddens>
+				<data>103</data>
+				<data>101</data>
+				<data />
+			</hiddens>
+			<representative>7</representative>
+			<area>ドラヴァニア</area>
+		</data>
+		<data>
+			<id>68</id>
+			<timeFrom>8:00</timeFrom>
+			<timeTo>12:00</timeTo>
+			<timeLimit>4</timeLimit>
+			<type>1</type>
+			<lv>60</lv>
+			<ptype>刻限</ptype>
+			<title />
+			<mapId>115</mapId>
+			<locationX>10</locationX>
+			<locationY>32</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>45</data>
+				<data>95</data>
+			</detail>
+			<hiddens>
+				<data>105</data>
+				<data>100</data>
+				<data />
+			</hiddens>
+			<representative>8</representative>
+			<area>ドラヴァニア</area>
 		</data>
 		<data>
 			<id>17</id>
 			<timeFrom>9:00</timeFrom>
 			<timeTo>12:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>4</mapId>
 			<locationX>17</locationX>
 			<locationY>16</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -1956,17 +3315,27 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>2</representative>
+			<area>ラノシア</area>
 		</data>
 		<data>
 			<id>18</id>
 			<timeFrom>9:00</timeFrom>
 			<timeTo>12:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>6</mapId>
 			<locationX>31</locationX>
 			<locationY>26</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data>56</data>
@@ -1978,17 +3347,27 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>4</representative>
+			<area>ラノシア</area>
 		</data>
 		<data>
 			<id>19</id>
 			<timeFrom>9:00</timeFrom>
 			<timeTo>12:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>0</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>70</mapId>
 			<locationX>29</locationX>
 			<locationY>24</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data>57</data>
@@ -2000,17 +3379,27 @@
 				<data>49</data>
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
+			<area>ザナラーン</area>
 		</data>
 		<data>
 			<id>20</id>
 			<timeFrom>9:00</timeFrom>
 			<timeTo>12:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>97</mapId>
 			<locationX>31</locationX>
 			<locationY>14</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -2022,17 +3411,27 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
+			<area>クルザス</area>
 		</data>
 		<data>
 			<id>21</id>
 			<timeFrom>9:00</timeFrom>
 			<timeTo>12:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>107</mapId>
 			<locationX>31</locationX>
 			<locationY>14</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data>48</data>
@@ -2044,17 +3443,59 @@
 				<data>45</data>
 				<data>21</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>3</representative>
+			<area>モードゥナ</area>
+		</data>
+		<data>
+			<id>60</id>
+			<timeFrom>9:00</timeFrom>
+			<timeTo>10:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>1</type>
+			<lv>60</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>117</mapId>
+			<locationX>9</locationX>
+			<locationY>10</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>78</data>
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>6</representative>
+			<area>クルザス</area>
 		</data>
 		<data>
 			<id>39</id>
 			<timeFrom>10:00</timeFrom>
 			<timeTo>13:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>38</mapId>
 			<locationX>24</locationX>
 			<locationY>31</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -2066,17 +3507,315 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
+			<area>黒衣森</area>
+		</data>
+		<data>
+			<id>44</id>
+			<timeFrom>10:00</timeFrom>
+			<timeTo>11:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>0</type>
+			<lv>55</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>115</mapId>
+			<locationX>26</locationX>
+			<locationY>18</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data>71</data>
+				<data>68</data>
+				<data>70</data>
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>2</representative>
+			<area>ドラヴァニア</area>
+		</data>
+		<data>
+			<id>46</id>
+			<timeFrom>10:00</timeFrom>
+			<timeTo>11:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>1</type>
+			<lv>55</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>117</mapId>
+			<locationX>32</locationX>
+			<locationY>20</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data>64</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>66</data>
+				<data>61</data>
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>1</representative>
+			<area>クルザス</area>
+		</data>
+		<data>
+			<id>62</id>
+			<timeFrom>10:00</timeFrom>
+			<timeTo>11:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>1</type>
+			<lv>60</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>119</mapId>
+			<locationX>33</locationX>
+			<locationY>23</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data>87</data>
+				<data>75</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>2</representative>
+			<area>アバラシア</area>
+		</data>
+		<data>
+			<id>64</id>
+			<timeFrom>11:00</timeFrom>
+			<timeTo>12:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>0</type>
+			<lv>60</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>120</mapId>
+			<locationX>23</locationX>
+			<locationY>6</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>74</data>
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>6</representative>
+			<area>アバラシア</area>
+		</data>
+		<data>
+			<id>49</id>
+			<timeFrom>12:00</timeFrom>
+			<timeTo>13:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>0</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>117</mapId>
+			<locationX>28</locationX>
+			<locationY>22</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data>69</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data>63</data>
+				<data />
+				<data />
+			</hiddens>
+			<representative>2</representative>
+			<area>クルザス</area>
+		</data>
+		<data>
+			<id>51</id>
+			<timeFrom>12:00</timeFrom>
+			<timeTo>13:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>1</type>
+			<lv>55</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>118</mapId>
+			<locationX>26</locationX>
+			<locationY>10</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data>65</data>
+				<data />
+				<data />
+				<data />
+				<data>67</data>
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>3</representative>
+			<area>ドラヴァニア</area>
+		</data>
+		<data>
+			<id>55</id>
+			<timeFrom>12:00</timeFrom>
+			<timeTo>13:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>0</type>
+			<lv>55</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>119</mapId>
+			<locationX>8</locationX>
+			<locationY>9</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data>76</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>91</data>
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>1</representative>
+			<area>アバラシア</area>
+		</data>
+		<data>
+			<id>57</id>
+			<timeFrom>12:00</timeFrom>
+			<timeTo>13:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>1</type>
+			<lv>60</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>116</mapId>
+			<locationX>16</locationX>
+			<locationY>37</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data>79</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>88</data>
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>2</representative>
+			<area>ドラヴァニア</area>
+		</data>
+		<data>
+			<id>69</id>
+			<timeFrom>12:00</timeFrom>
+			<timeTo>16:00</timeTo>
+			<timeLimit>4</timeLimit>
+			<type>0</type>
+			<lv>60</lv>
+			<ptype>刻限</ptype>
+			<title />
+			<mapId>118</mapId>
+			<locationX>29</locationX>
+			<locationY>19</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data>42</data>
+				<data />
+				<data />
+				<data />
+				<data>85</data>
+				<data />
+			</detail>
+			<hiddens>
+				<data>103</data>
+				<data>101</data>
+				<data />
+			</hiddens>
+			<representative>7</representative>
+			<area>ドラヴァニア</area>
 		</data>
 		<data>
 			<id>22</id>
 			<timeFrom>13:00</timeFrom>
 			<timeTo>16:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>6</mapId>
 			<locationX>17</locationX>
 			<locationY>28</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data>54</data>
@@ -2088,17 +3827,27 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>3</representative>
+			<area>ラノシア</area>
 		</data>
 		<data>
 			<id>23</id>
 			<timeFrom>13:00</timeFrom>
 			<timeTo>16:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>97</mapId>
 			<locationX>27</locationX>
 			<locationY>23</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -2110,17 +3859,27 @@
 				<data />
 				<data>39</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>8</representative>
+			<area>クルザス</area>
 		</data>
 		<data>
 			<id>24</id>
 			<timeFrom>13:00</timeFrom>
 			<timeTo>16:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>70</mapId>
 			<locationX>12</locationX>
 			<locationY>16</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -2132,17 +3891,27 @@
 				<data>3</data>
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>7</representative>
+			<area>ザナラーン</area>
 		</data>
 		<data>
 			<id>25</id>
 			<timeFrom>13:00</timeFrom>
 			<timeTo>16:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>0</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>107</mapId>
 			<locationX>28</locationX>
 			<locationY>12</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data>48</data>
@@ -2154,17 +3923,187 @@
 				<data>45</data>
 				<data>21</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>3</representative>
+			<area>モードゥナ</area>
+		</data>
+		<data>
+			<id>43</id>
+			<timeFrom>14:00</timeFrom>
+			<timeTo>15:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>115</mapId>
+			<locationX>26</locationX>
+			<locationY>12</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data>60</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data>63</data>
+				<data />
+				<data />
+			</hiddens>
+			<representative>2</representative>
+			<area>ドラヴァニア</area>
+		</data>
+		<data>
+			<id>53</id>
+			<timeFrom>14:00</timeFrom>
+			<timeTo>15:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>0</type>
+			<lv>55</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>118</mapId>
+			<locationX>34</locationX>
+			<locationY>23</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data>59</data>
+				<data />
+				<data>62</data>
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>4</representative>
+			<area>ドラヴァニア</area>
+		</data>
+		<data>
+			<id>59</id>
+			<timeFrom>14:00</timeFrom>
+			<timeTo>15:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>0</type>
+			<lv>60</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>116</mapId>
+			<locationX>38</locationX>
+			<locationY>30</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data>97</data>
+				<data>96</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>2</representative>
+			<area>ドラヴァニア</area>
+		</data>
+		<data>
+			<id>70</id>
+			<timeFrom>16:00</timeFrom>
+			<timeTo>20:00</timeTo>
+			<timeLimit>4</timeLimit>
+			<type>0</type>
+			<lv>60</lv>
+			<ptype>刻限</ptype>
+			<title />
+			<mapId>119</mapId>
+			<locationX>34</locationX>
+			<locationY>30</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data>46</data>
+				<data />
+				<data>89</data>
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data>104</data>
+				<data>102</data>
+				<data />
+			</hiddens>
+			<representative>4</representative>
+			<area>アバラシア</area>
+		</data>
+		<data>
+			<id>71</id>
+			<timeFrom>16:00</timeFrom>
+			<timeTo>20:00</timeTo>
+			<timeLimit>4</timeLimit>
+			<type>1</type>
+			<lv>60</lv>
+			<ptype>刻限</ptype>
+			<title />
+			<mapId>118</mapId>
+			<locationX>20</locationX>
+			<locationY>30</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>45</data>
+				<data>95</data>
+			</detail>
+			<hiddens>
+				<data>105</data>
+				<data>100</data>
+				<data />
+			</hiddens>
+			<representative>8</representative>
+			<area>ドラヴァニア</area>
 		</data>
 		<data>
 			<id>26</id>
 			<timeFrom>17:00</timeFrom>
 			<timeTo>20:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>0</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>6</mapId>
 			<locationX>17</locationX>
 			<locationY>34</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data>35</data>
@@ -2176,17 +4115,27 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>1</representative>
+			<area>ラノシア</area>
 		</data>
 		<data>
 			<id>27</id>
 			<timeFrom>17:00</timeFrom>
 			<timeTo>20:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>97</mapId>
 			<locationX>7</locationX>
 			<locationY>11</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -2198,17 +4147,27 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>2</representative>
+			<area>クルザス</area>
 		</data>
 		<data>
 			<id>28</id>
 			<timeFrom>17:00</timeFrom>
 			<timeTo>20:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>0</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>107</mapId>
 			<locationX>28</locationX>
 			<locationY>12</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data>48</data>
@@ -2220,17 +4179,27 @@
 				<data>45</data>
 				<data>21</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>3</representative>
+			<area>モードゥナ</area>
 		</data>
 		<data>
 			<id>40</id>
 			<timeFrom>17:00</timeFrom>
 			<timeTo>20:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>39</mapId>
 			<locationX>22</locationX>
 			<locationY>30</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data>41</data>
@@ -2242,17 +4211,27 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>1</representative>
+			<area>黒衣森</area>
 		</data>
 		<data>
 			<id>41</id>
 			<timeFrom>17:00</timeFrom>
 			<timeTo>20:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>0</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>72</mapId>
 			<locationX>23</locationX>
 			<locationY>22</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -2264,17 +4243,123 @@
 				<data />
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>6</representative>
+			<area>ザナラーン</area>
+		</data>
+		<data>
+			<id>80</id>
+			<timeFrom>17:00</timeFrom>
+			<timeTo>18:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>1</type>
+			<lv>60</lv>
+			<ptype>伝説</ptype>
+			<title />
+			<mapId>117</mapId>
+			<locationX>21</locationX>
+			<locationY>21</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data>84</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>3</representative>
+			<area>クルザス</area>
+		</data>
+		<data>
+			<id>81</id>
+			<timeFrom>17:00</timeFrom>
+			<timeTo>18:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>1</type>
+			<lv>60</lv>
+			<ptype>伝説</ptype>
+			<title />
+			<mapId>118</mapId>
+			<locationX>17</locationX>
+			<locationY>36</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data>73</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>1</representative>
+			<area>ドラヴァニア</area>
+		</data>
+		<data>
+			<id>82</id>
+			<timeFrom>17:00</timeFrom>
+			<timeTo>18:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>1</type>
+			<lv>60</lv>
+			<ptype>伝説</ptype>
+			<title />
+			<mapId>119</mapId>
+			<locationX>21</locationX>
+			<locationY>5</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data>80</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>2</representative>
+			<area>アバラシア</area>
 		</data>
 		<data>
 			<id>29</id>
 			<timeFrom>18:00</timeFrom>
 			<timeTo>21:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>0</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>5</mapId>
 			<locationX>23</locationX>
 			<locationY>21</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -2286,17 +4371,27 @@
 				<data>12</data>
 				<data>17</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>7</representative>
+			<area>ラノシア</area>
 		</data>
 		<data>
 			<id>30</id>
 			<timeFrom>19:00</timeFrom>
 			<timeTo>22:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>0</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>4</mapId>
 			<locationX>23</locationX>
 			<locationY>26</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -2308,17 +4403,187 @@
 				<data />
 				<data>51</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>8</representative>
+			<area>ラノシア</area>
+		</data>
+		<data>
+			<id>83</id>
+			<timeFrom>19:00</timeFrom>
+			<timeTo>20:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>1</type>
+			<lv>60</lv>
+			<ptype>伝説</ptype>
+			<title />
+			<mapId>117</mapId>
+			<locationX>27</locationX>
+			<locationY>33</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data>82</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>3</representative>
+			<area>クルザス</area>
+		</data>
+		<data>
+			<id>84</id>
+			<timeFrom>19:00</timeFrom>
+			<timeTo>20:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>1</type>
+			<lv>60</lv>
+			<ptype>伝説</ptype>
+			<title />
+			<mapId>116</mapId>
+			<locationX>39</locationX>
+			<locationY>26</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data>81</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>2</representative>
+			<area>ドラヴァニア</area>
+		</data>
+		<data>
+			<id>85</id>
+			<timeFrom>19:00</timeFrom>
+			<timeTo>20:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>1</type>
+			<lv>60</lv>
+			<ptype>伝説</ptype>
+			<title />
+			<mapId>120</mapId>
+			<locationX>23</locationX>
+			<locationY>8</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>92</data>
+				<data />
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>5</representative>
+			<area>アバラシア</area>
+		</data>
+		<data>
+			<id>72</id>
+			<timeFrom>20:00</timeFrom>
+			<timeTo>24:00</timeTo>
+			<timeLimit>4</timeLimit>
+			<type>0</type>
+			<lv>60</lv>
+			<ptype>刻限</ptype>
+			<title />
+			<mapId>117</mapId>
+			<locationX>21</locationX>
+			<locationY>26</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data>46</data>
+				<data />
+				<data>89</data>
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data>104</data>
+				<data>102</data>
+				<data />
+			</hiddens>
+			<representative>4</representative>
+			<area>クルザス</area>
+		</data>
+		<data>
+			<id>73</id>
+			<timeFrom>20:00</timeFrom>
+			<timeTo>24:00</timeTo>
+			<timeLimit>4</timeLimit>
+			<type>1</type>
+			<lv>60</lv>
+			<ptype>刻限</ptype>
+			<title />
+			<mapId>119</mapId>
+			<locationX>23</locationX>
+			<locationY>12</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data>44</data>
+				<data />
+				<data>77</data>
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data>98</data>
+				<data>99</data>
+				<data />
+			</hiddens>
+			<representative>6</representative>
+			<area>アバラシア</area>
 		</data>
 		<data>
 			<id>31</id>
 			<timeFrom>21:00</timeFrom>
 			<timeTo>24:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>1</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>39</mapId>
 			<locationX>12</locationX>
 			<locationY>24</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -2330,17 +4595,27 @@
 				<data>50</data>
 				<data>38</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>8</representative>
+			<area>黒衣森</area>
 		</data>
 		<data>
 			<id>32</id>
 			<timeFrom>21:00</timeFrom>
 			<timeTo>24:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>0</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>97</mapId>
 			<locationX>22</locationX>
 			<locationY>24</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data />
@@ -2352,17 +4627,27 @@
 				<data>18</data>
 				<data />
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>7</representative>
+			<area>クルザス</area>
 		</data>
 		<data>
 			<id>33</id>
 			<timeFrom>21:00</timeFrom>
 			<timeTo>24:00</timeTo>
+			<timeLimit>3</timeLimit>
 			<type>0</type>
+			<lv>50</lv>
+			<ptype>未知</ptype>
 			<title />
 			<mapId>107</mapId>
 			<locationX>28</locationX>
 			<locationY>12</locationY>
+			<hidden_note>2.x</hidden_note>
 			<note />
 			<detail>
 				<data>48</data>
@@ -2374,7 +4659,173 @@
 				<data>45</data>
 				<data>21</data>
 			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
 			<representative>3</representative>
+			<area>モードゥナ</area>
+		</data>
+		<data>
+			<id>61</id>
+			<timeFrom>21:00</timeFrom>
+			<timeTo>22:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>1</type>
+			<lv>60</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>117</mapId>
+			<locationX>9</locationX>
+			<locationY>10</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>78</data>
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>6</representative>
+			<area>クルザス</area>
+		</data>
+		<data>
+			<id>45</id>
+			<timeFrom>22:00</timeFrom>
+			<timeTo>23:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>0</type>
+			<lv>55</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>115</mapId>
+			<locationX>26</locationX>
+			<locationY>18</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data>71</data>
+				<data>68</data>
+				<data>70</data>
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>2</representative>
+			<area>ドラヴァニア</area>
+		</data>
+		<data>
+			<id>47</id>
+			<timeFrom>22:00</timeFrom>
+			<timeTo>23:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>1</type>
+			<lv>55</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>117</mapId>
+			<locationX>32</locationX>
+			<locationY>20</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data>64</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>66</data>
+				<data>61</data>
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>1</representative>
+			<area>クルザス</area>
+		</data>
+		<data>
+			<id>63</id>
+			<timeFrom>22:00</timeFrom>
+			<timeTo>23:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>1</type>
+			<lv>60</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>119</mapId>
+			<locationX>33</locationX>
+			<locationY>23</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data>87</data>
+				<data>75</data>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>2</representative>
+			<area>アバラシア</area>
+		</data>
+		<data>
+			<id>65</id>
+			<timeFrom>23:00</timeFrom>
+			<timeTo>24:00</timeTo>
+			<timeLimit>1</timeLimit>
+			<type>0</type>
+			<lv>60</lv>
+			<ptype>未知</ptype>
+			<title />
+			<mapId>120</mapId>
+			<locationX>23</locationX>
+			<locationY>6</locationY>
+			<hidden_note>3.0</hidden_note>
+			<note />
+			<detail>
+				<data />
+				<data />
+				<data />
+				<data />
+				<data />
+				<data>74</data>
+				<data />
+				<data />
+			</detail>
+			<hiddens>
+				<data />
+				<data />
+				<data />
+			</hiddens>
+			<representative>6</representative>
+			<area>アバラシア</area>
 		</data>
 	</gathering>
 </gathererInfo>

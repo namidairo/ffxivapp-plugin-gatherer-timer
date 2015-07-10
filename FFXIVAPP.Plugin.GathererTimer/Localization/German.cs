@@ -75,7 +75,7 @@ namespace FFXIVAPP.Plugin.GathererTimer.Localization
             Dictionary.Add("text_alarm_time_earlier", "Alarmzeit (N Minuten früher)");
 
             Dictionary.Add("text_github", "Open Project Source (GitHub)");
-
+            Dictionary.Add("text_hidden", "Verborgen");
 
             return Dictionary;
         }

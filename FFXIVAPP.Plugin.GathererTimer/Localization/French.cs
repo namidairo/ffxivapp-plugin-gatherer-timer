@@ -76,6 +76,8 @@ namespace FFXIVAPP.Plugin.GathererTimer.Localization
 
             Dictionary.Add("text_github", "Open Project Source (GitHub)");
 
+            Dictionary.Add("text_hidden", "Caché");
+
             return Dictionary;
         }
     }
