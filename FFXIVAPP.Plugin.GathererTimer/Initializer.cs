@@ -29,18 +29,12 @@
 
 using System;
 using System.Globalization;
-using System.Windows;
-using System.Windows.Media;
 using System.Linq;
 using System.Xml.Linq;
 using System.IO;
 using System.Collections.Generic;
-using System.Collections.ObjectModel;
-
-using FFXIVAPP.Common.Controls;
 using FFXIVAPP.Common.Helpers;
 using FFXIVAPP.Plugin.GathererTimer.Properties;
-using FFXIVAPP.Plugin.GathererTimer.Views;
 
 namespace FFXIVAPP.Plugin.GathererTimer
 {

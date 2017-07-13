@@ -31,7 +31,6 @@ using System;
 using System.ComponentModel;
 using System.Diagnostics;
 using System.Runtime.CompilerServices;
-using FFXIVAPP.Common.Models;
 using FFXIVAPP.Common.ViewModelBase;
 
 namespace FFXIVAPP.Plugin.GathererTimer.ViewModels

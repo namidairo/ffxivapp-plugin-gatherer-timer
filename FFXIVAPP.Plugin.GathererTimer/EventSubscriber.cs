@@ -27,10 +27,7 @@
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE 
 // POSSIBILITY OF SUCH DAMAGE. 
 
-using System;
 using FFXIVAPP.IPluginInterface.Events;
-using FFXIVAPP.Plugin.GathererTimer.Views;
-using FFXIVAPP.Plugin.GathererTimer.Utilities;
 
 namespace FFXIVAPP.Plugin.GathererTimer
 {

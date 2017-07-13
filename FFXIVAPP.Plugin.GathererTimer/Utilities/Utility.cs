@@ -1,10 +1,4 @@
 ﻿using System;
-using System.Drawing;
-using System.IO;
-using System.Collections.Generic;
-using System.Text;
-using System.Windows.Media.Imaging;
-using FFXIVAPP.Plugin.GathererTimer.Models;
 
 namespace FFXIVAPP.Plugin.GathererTimer.Utilities {
     public class Utility {

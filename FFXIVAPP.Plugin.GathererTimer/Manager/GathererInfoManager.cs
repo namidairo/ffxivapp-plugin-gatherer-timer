@@ -1,13 +1,7 @@
 ﻿using System;
 using System.Windows;
 using System.Windows.Resources;
-using System.IO;
-using System.ComponentModel;
-using System.Collections;
 using System.Collections.Generic;
-using System.Collections.ObjectModel;
-using System.Text;
-
 using System.Xml;
 
 using FFXIVAPP.Plugin.GathererTimer.Models;
